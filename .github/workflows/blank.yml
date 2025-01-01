@@ -15,26 +15,36 @@ jobs:
 
       - name: Install dependencies
         run: |
+          echo "Installing dependencies..."
           sudo apt-get update
           sudo apt-get install -y jq curl libxml2-utils  # 安装 libxml2-utils 包，包含 xmllint
+          echo "Dependencies installed."
 
       - name: Fetch and parse sitemap
         run: |
+          echo "Downloading sitemap..."
           # 下载 sitemap
           curl -s https://itch.io/games/platform-web.xml -o sitemap.xml
+          echo "Sitemap downloaded."
 
+          echo "Extracting game titles..."
           # 提取所有游戏标题，每个标题占一行
           TITLES=$(xmllint --xpath "//item/title/text()" sitemap.xml | tr ' ' '\n' | sed 's/^\s*//g')
 
-          # 打印输出所有标题（用于调试）
+          # 打印输出所有标题
+          echo "Extracted Titles:"
           echo "$TITLES"
 
           # 检查是否是首次运行（即文件 previous_names.txt 是否存在）
           if [ -f previous_names.txt ]; then
+            echo "Previous names file found. Comparing current and previous titles..."
             PREVIOUS_NAMES=$(cat previous_names.txt)
 
             # 获取新增的游戏名称
             NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$TITLES" | sort))
+
+            echo "New Games:"
+            echo "$NEW_NAMES"
 
             # 如果有新增的游戏，生成报告
             if [ ! -z "$NEW_NAMES" ]; then
@@ -52,12 +62,15 @@ jobs:
 
           # 保存当前游戏名称列表供下次比较
           echo "$TITLES" > previous_names.txt
+          echo "当前游戏名称已保存到 previous_names.txt"
 
       - name: Commit generated files
         run: |
+          echo "Checking if there are new files to commit..."
           # 检查是否有新生成的文件
           if [ -f "new_games_$(date +%Y-%m-%d).txt" ] || [ -f "all_games_$(date +%Y-%m-%d).txt" ]; then
             # 配置 git 用户信息
+            echo "Configuring git..."
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
 
@@ -66,10 +79,15 @@ jobs:
 
             # 添加新生成的文件
             git add *.txt
+            echo "Files added to git."
 
             # 提交到仓库
             git commit -m "Add daily sitemap diff report"
+            echo "Commit created."
 
             # 推送到仓库
             git push origin main
+            echo "Changes pushed to the repository."
+          else
+            echo "No new files to commit."
           fi
