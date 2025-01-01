@@ -49,3 +49,21 @@ jobs:
 
           # 保存当前游戏名称列表供下次比较
           echo "$CURRENT_NAMES" > previous_names.txt
+
+      - name: Commit generated files
+        run: |
+          # 检查是否有新生成的文件
+          if [ -f "new_games_$(date +%Y-%m-%d).txt" ] || [ -f "all_games_$(date +%Y-%m-%d).txt" ]; then
+            # 配置 git 用户信息
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+
+            # 添加新生成的文件
+            git add *.txt
+
+            # 提交到仓库
+            git commit -m "Add daily sitemap diff report"
+
+            # 推送到仓库
+            git push origin main
+          fi
