@@ -29,7 +29,7 @@ jobs:
 
           echo "Extracting game titles..."
           # 提取所有游戏标题，每个标题占一行
-          TITLES=$(xmllint --xpath "//item/title/text()" sitemap.xml | tr ' ' '\n' | sed 's/^\s*//g')
+          TITLES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml | tr ' ' '\n' | sed 's/^\s*//g')
 
           # 打印输出所有标题
           echo "Extracted Titles:"
