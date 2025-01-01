@@ -1,32 +1,72 @@
-name: Daily Sitemap Fetch and Commit
+name: Sitemap Diff Report
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 00:00 UTC 运行
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 触发
   workflow_dispatch:  # 允许手动触发
 
 jobs:
-  fetch_and_commit:
+  diff_sitemap:
     runs-on: ubuntu-latest
 
     steps:
-      # 检出仓库
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
-      # 拉取 sitemap 文件并命名
-      - name: Fetch Sitemap
+      - name: Install dependencies
         run: |
-          DATE=$(date +'%Y-%m-%d')  # 格式化当前日期为 年-月-日
-          curl -o "sitemap-$DATE.xml" https://itch.io/games/platform-web.xml
+          sudo apt-get update
+          sudo apt-get install -y jq curl libxml2-utils  # 安装 libxml2-utils 包，包含 xmllint
 
-      # 提交文件到仓库
-      - name: Commit and push the sitemap file
+      - name: Fetch and parse sitemap
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@users.noreply.github.com"
-          git add "sitemap-$(date +'%Y-%m-%d').xml"
-          git commit -m "Add sitemap for $(date +'%Y-%m-%d')"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GitHub token
+          # 下载 sitemap
+          curl -s https://itch.io/games/platform-web.xml -o sitemap.xml
+
+          # 提取当前所有游戏名称
+          CURRENT_NAMES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml | tr '\n' ' ')
+
+          # 检查是否是首次运行（即文件 previous_names.txt 是否存在）
+          if [ -f previous_names.txt ]; then
+            PREVIOUS_NAMES=$(cat previous_names.txt)
+
+            # 获取新增的游戏名称
+            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$CURRENT_NAMES" | sort))
+
+            # 如果有新增的游戏，生成报告
+            if [ ! -z "$NEW_NAMES" ]; then
+              DATE=$(date +%Y-%m-%d)
+              echo "$NEW_NAMES" > "new_games_$DATE.txt"
+              echo "新增游戏已生成报告：new_games_$DATE.txt"
+            fi
+          else
+            # 如果是首次运行，保存当前名称列表到文件
+            echo "首次运行，保存所有游戏名称"
+            DATE=$(date +%Y-%m-%d)
+            echo "$CURRENT_NAMES" > "all_games_$DATE.txt"
+            echo "已保存所有游戏名称到文件：all_games_$DATE.txt"
+          fi
+
+          # 保存当前游戏名称列表供下次比较
+          echo "$CURRENT_NAMES" > previous_names.txt
+
+      - name: Commit generated files
+        run: |
+          # 检查是否有新生成的文件
+          if [ -f "new_games_$(date +%Y-%m-%d).txt" ] || [ -f "all_games_$(date +%Y-%m-%d).txt" ]; then
+            # 配置 git 用户信息
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+
+            # 使用 GitHub Token 来进行身份验证
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+            # 添加新生成的文件
+            git add *.txt
+
+            # 提交到仓库
+            git commit -m "Add daily sitemap diff report"
+
+            # 推送到仓库
+            git push origin main
+          fi
