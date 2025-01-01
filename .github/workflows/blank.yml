@@ -1,0 +1,47 @@
+name: Sitemap Diff Report
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 触发
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  diff_sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Fetch and parse sitemap
+        run: |
+          # 下载 sitemap
+          curl -s https://itch.io/games/platform-web.xml -o sitemap.xml
+
+          # 提取当前所有游戏名称
+          CURRENT_NAMES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml | tr '\n' ' ')
+
+          # 比较当前与之前的名称列表
+          if [ -f previous_names.txt ]; then
+            PREVIOUS_NAMES=$(cat previous_names.txt)
+
+            # 获取新增的游戏名称
+            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$CURRENT_NAMES" | sort))
+
+            # 如果有新增的游戏，生成报告
+            if [ ! -z "$NEW_NAMES" ]; then
+              DATE=$(date +%Y-%m-%d)
+              echo "$NEW_NAMES" > "new_games_$DATE.txt"
+              echo "新增游戏已生成报告：new_games_$DATE.txt"
+            fi
+          else
+            echo "首次运行，没有上次数据进行比较。"
+          fi
+
+          # 保存当前游戏名称列表供下次比较
+          echo "$CURRENT_NAMES" > previous_names.txt
