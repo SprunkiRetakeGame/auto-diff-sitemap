@@ -28,3 +28,5 @@ jobs:
           git add "sitemap-$(date +'%Y-%m-%d').xml"
           git commit -m "Add sitemap for $(date +'%Y-%m-%d')"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GitHub token
