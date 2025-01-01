@@ -20,20 +20,47 @@ jobs:
           sudo apt-get install -y jq curl libxml2-utils  # 安装 libxml2-utils 包，包含 xmllint
           echo "Dependencies installed."
 
-      - name: Fetch and parse sitemap
+      - name: Fetch and parse multiple sitemaps
         run: |
-          echo "Downloading sitemap..."
-          # 下载 sitemap
-          curl -s https://itch.io/games/platform-web.xml -o sitemap.xml
-          echo "Sitemap downloaded."
+          echo "Downloading sitemaps..."
+          # 定义 sitemap 列表
+          SITEMAPS=(
+            'https://itch.io/games/genre-action.xml'
+            'https://itch.io/games/genre-adventure.xml'
+            'https://itch.io/games/tag-card-game.xml'
+            'https://itch.io/games/tag-educational.xml'
+            'https://itch.io/games/tag-fighting.xml'
+            'https://itch.io/games/tag-interactive-fiction.xml'
+            'https://itch.io/games/genre-platformer.xml'
+            'https://itch.io/games/genre-puzzle.xml'
+            'https://itch.io/games/tag-racing.xml'
+            'https://itch.io/games/tag-rhythm.xml'
+            'https://itch.io/games/genre-rpg.xml'
+            'https://itch.io/games/genre-shooter.xml'
+            'https://itch.io/games/genre-simulation.xml'
+            'https://itch.io/games/genre-sports.xml'
+            'https://itch.io/games/genre-strategy.xml'
+            'https://itch.io/games/tag-survival.xml'
+            'https://itch.io/games/genre-visual-novel.xml'
+            'https://itch.io/games/genre-other.xml'
+          )
 
-          echo "Extracting plainTitle..."
-          # 提取所有 plainTitle 字段，每个标题占一行
-          PLAINTITLES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml)
+          # 用于存储所有 sitemap 中的 plainTitle
+          ALL_PLAINTITLES=""
 
-          # 打印输出所有 plainTitle
-          echo "Extracted plainTitles:"
-          echo "$PLAINTITLES" | while IFS= read -r title; do
+          # 遍历每个 sitemap URL 并拉取数据
+          for SITEMAP_URL in "${SITEMAPS[@]}"; do
+            echo "Downloading sitemap from $SITEMAP_URL..."
+            curl -s "$SITEMAP_URL" -o sitemap.xml
+
+            echo "Extracting plainTitle from $SITEMAP_URL..."
+            # 提取 plainTitle 并合并到 ALL_PLAINTITLES 变量中
+            PLAINTITLES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml)
+            ALL_PLAINTITLES="$ALL_PLAINTITLES$PLAINTITLES"$'\n'
+          done
+
+          echo "All plainTitles extracted."
+          echo "$ALL_PLAINTITLES" | while IFS= read -r title; do
             echo "$title"
           done
 
@@ -43,7 +70,7 @@ jobs:
             PREVIOUS_NAMES=$(cat previous_names.txt)
 
             # 获取新增的游戏名称
-            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$PLAINTITLES" | sort))
+            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$ALL_PLAINTITLES" | sort))
 
             echo "New Games:"
             echo "$NEW_NAMES"
@@ -58,12 +85,12 @@ jobs:
             # 如果是首次运行，保存当前名称列表到文件
             echo "首次运行，保存所有游戏名称"
             DATE=$(date +%Y-%m-%d)
-            echo "$PLAINTITLES" > "all_games_$DATE.txt"
+            echo "$ALL_PLAINTITLES" > "all_games_$DATE.txt"
             echo "已保存所有游戏名称到文件：all_games_$DATE.txt"
           fi
 
           # 保存当前游戏名称列表供下次比较
-          echo "$PLAINTITLES" > previous_names.txt
+          echo "$ALL_PLAINTITLES" > previous_names.txt
           echo "当前游戏名称已保存到 previous_names.txt"
 
       - name: Commit generated files
