@@ -23,15 +23,18 @@ jobs:
           # 下载 sitemap
           curl -s https://itch.io/games/platform-web.xml -o sitemap.xml
 
-          # 提取当前所有游戏名称
-          CURRENT_NAMES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml | tr '\n' ' ')
+          # 提取所有游戏标题，每个标题占一行
+          TITLES=$(xmllint --xpath "//item/title/text()" sitemap.xml | tr ' ' '\n' | sed 's/^\s*//g')
+
+          # 打印输出所有标题（用于调试）
+          echo "$TITLES"
 
           # 检查是否是首次运行（即文件 previous_names.txt 是否存在）
           if [ -f previous_names.txt ]; then
             PREVIOUS_NAMES=$(cat previous_names.txt)
 
             # 获取新增的游戏名称
-            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$CURRENT_NAMES" | sort))
+            NEW_NAMES=$(comm -13 <(echo "$PREVIOUS_NAMES" | sort) <(echo "$TITLES" | sort))
 
             # 如果有新增的游戏，生成报告
             if [ ! -z "$NEW_NAMES" ]; then
@@ -43,12 +46,12 @@ jobs:
             # 如果是首次运行，保存当前名称列表到文件
             echo "首次运行，保存所有游戏名称"
             DATE=$(date +%Y-%m-%d)
-            echo "$CURRENT_NAMES" > "all_games_$DATE.txt"
+            echo "$TITLES" > "all_games_$DATE.txt"
             echo "已保存所有游戏名称到文件：all_games_$DATE.txt"
           fi
 
           # 保存当前游戏名称列表供下次比较
-          echo "$CURRENT_NAMES" > previous_names.txt
+          echo "$TITLES" > previous_names.txt
 
       - name: Commit generated files
         run: |
@@ -58,8 +61,8 @@ jobs:
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
 
-            # 使用 GitHub Token 来进行身份验证
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            # 使用 PAT 进行身份验证
+            git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
 
             # 添加新生成的文件
             git add *.txt
