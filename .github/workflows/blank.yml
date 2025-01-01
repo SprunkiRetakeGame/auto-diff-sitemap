@@ -58,6 +58,9 @@ jobs:
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
 
+            # 使用 GitHub Token 来进行身份验证
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
             # 添加新生成的文件
             git add *.txt
 
