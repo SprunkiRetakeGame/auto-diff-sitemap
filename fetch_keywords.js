@@ -13,25 +13,30 @@ axios.get(url)
     // 提取并排序 SEO 关键词
     const keywords = games.map(game => game.seoKeyword).sort();
 
-    // 将关键词保存到文件
-    const keywordsFile = `crazygames_${formattedDate}.txt`;
-    fs.writeFileSync(keywordsFile, keywords.join('\n'));
+    // 定义文件路径
+    const keywordsFile = 'crazygames.txt';
+    const diffFile = `crazygames_diff_${formattedDate}.txt`;
 
-    // 获取之前保存的文件
-    const previousKeywordsFile = `crazygames_${formattedDate}.txt`;
-    let diffContent = '';
-    if (fs.existsSync(previousKeywordsFile)) {
-      const previousKeywords = fs.readFileSync(previousKeywordsFile, 'utf-8').split('\n');
-      diffContent = previousKeywords.filter(keyword => !keywords.includes(keyword)).join('\n');
+    // 读取现有的 keywords.txt 文件（如果存在）
+    let previousKeywords = [];
+    if (fs.existsSync(keywordsFile)) {
+      previousKeywords = fs.readFileSync(keywordsFile, 'utf-8').split('\n');
     }
 
-    // 保存 diff 文件
-    if (diffContent) {
-      const diffFile = `crazygames_diff_${formattedDate}.txt`;
-      fs.writeFileSync(diffFile, diffContent);
+    // 找到差异：diffData 是新数据中存在而旧数据中没有的关键词
+    const diffData = keywords.filter(keyword => !previousKeywords.includes(keyword));
+
+    // 将差异数据写入到 diff 文件
+    if (diffData.length > 0) {
+      fs.writeFileSync(diffFile, diffData.join('\n'), 'utf-8');
+    } else {
+      console.log('No new keywords to write to diff file.');
     }
 
-    // 将文件添加到 Git 仓库
+    // 将最新的关键词写入 crazygames.txt 文件
+    fs.writeFileSync(keywordsFile, keywords.join('\n'), 'utf-8');
+
+    // 将文件添加到 Git 仓库并提交
     execSync('git config --global user.name "github-actions"');
     execSync('git config --global user.email "actions@github.com"');
     execSync('git add .');
