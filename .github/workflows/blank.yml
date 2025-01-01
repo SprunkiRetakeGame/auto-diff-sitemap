@@ -26,7 +26,7 @@ jobs:
           # 提取当前所有游戏名称
           CURRENT_NAMES=$(xmllint --xpath "//item/plainTitle/text()" sitemap.xml | tr '\n' ' ')
 
-          # 比较当前与之前的名称列表
+          # 检查是否是首次运行（即文件 previous_names.txt 是否存在）
           if [ -f previous_names.txt ]; then
             PREVIOUS_NAMES=$(cat previous_names.txt)
 
@@ -40,7 +40,11 @@ jobs:
               echo "新增游戏已生成报告：new_games_$DATE.txt"
             fi
           else
-            echo "首次运行，没有上次数据进行比较。"
+            # 如果是首次运行，保存当前名称列表到文件
+            echo "首次运行，保存所有游戏名称"
+            DATE=$(date +%Y-%m-%d)
+            echo "$CURRENT_NAMES" > "all_games_$DATE.txt"
+            echo "已保存所有游戏名称到文件：all_games_$DATE.txt"
           fi
 
           # 保存当前游戏名称列表供下次比较
