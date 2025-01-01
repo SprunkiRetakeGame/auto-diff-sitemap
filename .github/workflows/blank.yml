@@ -1,33 +1,30 @@
-name: Sitemap Diff Checker
+name: Daily Sitemap Fetch and Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天凌晨 12 点运行
-  workflow_dispatch:  # 允许手动触发工作流
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 运行
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  diff:
+  fetch_and_commit:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub token 进行提交
+      # 检出仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Fetch sitemap
-      run: |
-        curl -o sitemap.xml https://itch.io/sitemap.xml
+      # 拉取 sitemap 文件并命名
+      - name: Fetch Sitemap
+        run: |
+          DATE=$(date +'%Y-%m-%d')  # 格式化当前日期为 年-月-日
+          curl -o "sitemap-$DATE.xml" https://itch.io/games/platform-web.xml
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        
-        if [ -n "$(git status --porcelain)" ]; then
-          git add sitemap.xml
-          git commit -m "Update sitemap.xml"
+      # 提交文件到仓库
+      - name: Commit and push the sitemap file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add "sitemap-$(date +'%Y-%m-%d').xml"
+          git commit -m "Add sitemap for $(date +'%Y-%m-%d')"
           git push
-        else
-          echo "No changes to commit"
-        fi
