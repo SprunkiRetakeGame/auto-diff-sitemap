@@ -2,48 +2,84 @@ const axios = require('axios');
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-const url = 'https://api.crazygames.com/v3/en_US/page/allGames?paginationPage=1&paginationSize=100';
+const baseUrl = 'https://api.crazygames.com/v3/en_US/page/allGames';
 const today = new Date();
 const formattedDate = today.toISOString().split('T')[0];  // 格式化为 YYYY-MM-DD
 
-// 请求 API 获取游戏数据
-axios.get(url)
-  .then(response => {
-    const games = response.data.games.items;
-    // 提取并排序 SEO 关键词
-    const keywords = games.map(game => game.seoKeyword).sort();
+const paginationSize = 100;  // 每页的游戏数量
+let currentPage = 1;  // 当前页码
+let totalPages = 1;  // 默认假设只有一页
 
-    // 定义文件路径
-    const keywordsFile = 'crazygames.txt';
-    const diffFile = `crazygames_diff_${formattedDate}.txt`;
+// 存储所有游戏的关键词
+let allKeywords = [];
 
-    // 读取现有的 keywords.txt 文件（如果存在）
-    let previousKeywords = [];
-    if (fs.existsSync(keywordsFile)) {
-      previousKeywords = fs.readFileSync(keywordsFile, 'utf-8').split('\n');
+const fetchGames = async () => {
+  while (currentPage <= totalPages) {
+    const url = `${baseUrl}?paginationPage=${currentPage}&paginationSize=${paginationSize}`;
+    
+    try {
+      const response = await axios.get(url);
+      const games = response.data.games.items;
+
+      // 提取关键词并添加到 allKeywords
+      const keywords = games.map(game => game.seoKeyword);
+      allKeywords = [...allKeywords, ...keywords];
+
+      // 如果这是第一页，设置总页数（假设 API 返回了总页数）
+      if (currentPage === 1) {
+        totalPages = response.data.pagination.totalPages;
+      }
+
+      currentPage++;  // 增加页码
+
+    } catch (error) {
+      console.error(`Error fetching page ${currentPage}:`, error);
+      process.exit(1);
     }
+  }
+};
 
-    // 找到差异：diffData 是新数据中存在而旧数据中没有的关键词
-    const diffData = keywords.filter(keyword => !previousKeywords.includes(keyword));
+const processKeywords = () => {
+  // 排序并去重关键词
+  const keywords = [...new Set(allKeywords)].sort();
 
-    // 将差异数据写入到 diff 文件
-    if (diffData.length > 0) {
-      fs.writeFileSync(diffFile, diffData.join('\n'), 'utf-8');
-    } else {
-      console.log('No new keywords to write to diff file.');
-    }
+  // 定义文件路径
+  const keywordsFile = 'crazygames.txt';
+  const diffFile = `crazygames_diff_${formattedDate}.txt`;
 
-    // 将最新的关键词写入 crazygames.txt 文件
-    fs.writeFileSync(keywordsFile, keywords.join('\n'), 'utf-8');
+  // 读取现有的 keywords.txt 文件（如果存在）
+  let previousKeywords = [];
+  if (fs.existsSync(keywordsFile)) {
+    previousKeywords = fs.readFileSync(keywordsFile, 'utf-8').split('\n');
+  }
 
-    // 将文件添加到 Git 仓库并提交
-    execSync('git config --global user.name "github-actions"');
-    execSync('git config --global user.email "actions@github.com"');
-    execSync('git add .');
-    execSync('git commit -m "Update CrazyGames keywords"');
-    execSync('git push');
-  })
-  .catch(error => {
-    console.error('Error fetching data:', error);
-    process.exit(1);
-  });
+  // 找到差异：diffData 是新数据中存在而旧数据中没有的关键词
+  const diffData = keywords.filter(keyword => !previousKeywords.includes(keyword));
+
+  // 将差异数据写入到 diff 文件
+  if (diffData.length > 0) {
+    fs.writeFileSync(diffFile, diffData.join('\n'), 'utf-8');
+  } else {
+    console.log('No new keywords to write to diff file.');
+  }
+
+  // 将最新的关键词写入 crazygames.txt 文件
+  fs.writeFileSync(keywordsFile, keywords.join('\n'), 'utf-8');
+};
+
+const commitChanges = () => {
+  // 将文件添加到 Git 仓库并提交
+  execSync('git config --global user.name "github-actions"');
+  execSync('git config --global user.email "actions@github.com"');
+  execSync('git add .');
+  execSync('git commit -m "Update CrazyGames keywords"');
+  execSync('git push');
+};
+
+const main = async () => {
+  await fetchGames();  // 获取所有页的数据
+  processKeywords();  // 处理关键词
+  commitChanges();    // 提交到 Git
+};
+
+main();
