@@ -8,7 +8,7 @@ const formattedDate = today.toISOString().split('T')[0];  // 格式化为 YYYY-M
 
 const paginationSize = 100;  // 每页的游戏数量
 let currentPage = 1;  // 当前页码
-let totalPages = 1;  // 默认假设只有一页
+let totalPages = 2;  // 设置总页数为 2（手动指定）
 
 // 存储所有游戏的关键词
 let allKeywords = [];
@@ -19,16 +19,13 @@ const fetchGames = async () => {
     
     try {
       const response = await axios.get(url);
-      const games = response.data.games.items;
+      console.log(`Fetching page ${currentPage}:`, response.data);  // 打印响应数据以检查结构
 
+      const games = response.data.games.items;
+      
       // 提取关键词并添加到 allKeywords
       const keywords = games.map(game => game.seoKeyword);
       allKeywords = [...allKeywords, ...keywords];
-
-      // 如果这是第一页，设置总页数（假设 API 返回了总页数）
-      if (currentPage === 1) {
-        totalPages = response.data.pagination.totalPages;
-      }
 
       currentPage++;  // 增加页码
 
