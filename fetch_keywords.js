@@ -8,7 +8,7 @@ const formattedDate = today.toISOString().split('T')[0];  // 格式化为 YYYY-M
 
 const paginationSize = 100;  // 每页的游戏数量
 let currentPage = 1;  // 当前页码
-let totalPages = 2;  // 设置总页数为 2（手动指定）
+let totalPages = 30;  // 设置总页数为 2（手动指定）
 
 // 存储所有游戏的关键词
 let allKeywords = [];
