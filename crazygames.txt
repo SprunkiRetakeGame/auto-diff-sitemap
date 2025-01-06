@@ -152,7 +152,6 @@ BLOCOPS
 BORE BLASTERS
 Babel Tower Game
 Baby Adopter
-Baby Adopter Dress Up
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -242,6 +241,7 @@ Big Tower Tiny Square 2
 Bike Jump Online Game
 Bike Mania
 Bike Stunts Race Bike Games 3D
+Bike Trial Xtreme Forest
 Biker Street
 Billiards Pool 8
 Billionaire Wife Dress Up Game
@@ -314,11 +314,11 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
-Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
+Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -562,7 +562,6 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
-Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -789,7 +788,6 @@ Draw My Way
 Draw Quiz
 Draw Tattoo game
 Draw To Smash
-Drawer Super Racer
 Drednot io
 Dress Up Games & Coloring Book
 Dress Up Rewind
@@ -870,6 +868,7 @@ Epic Army Clash
 Epic Basketball
 Epic Empire Tower Defense
 EpicBallz io
+Eraze That
 Escape 20 Rooms
 Escape From Prison Multiplayer
 Escape Game Room With a Lamp
@@ -1405,6 +1404,7 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1444,6 +1444,7 @@ Killer Whale Online
 King Survivors
 King io World War
 King s Landing Arcade Idle
+Kingdom Rush
 Kingdom of Pixels
 Kingmaker Academy Warrior s Duels
 Kings Clash
@@ -1470,7 +1471,6 @@ Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Mountain Climber
-Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama Sonic Dash 2
@@ -1516,7 +1516,6 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
-Letters Match
 Level Eaten
 Lexy
 Lhama Clicker
@@ -1680,7 +1679,7 @@ Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
 Merge Mine Mobs Attack
-Merge Pickaxe
+Merge Pickaxe 2
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1774,6 +1773,7 @@ Monster Bash FRVR
 Monster Battle
 Monster Box
 Monster Cars Ultimate Simulator
+Monster Christmas Terror
 Monster Clearer
 Monster Defense
 Monster Duel
@@ -1889,7 +1889,6 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
-Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -1996,10 +1995,10 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
+Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
-Pawggle
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
@@ -2265,6 +2264,7 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
+SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2279,6 +2279,8 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+Santa Vs Skritch
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2286,6 +2288,7 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
+Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2376,6 +2379,7 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
+SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2687,10 +2691,8 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
-The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
-The Undisputables Online Multiplayer
 The White Room
 The White Room 2
 The White Room 3
@@ -2764,7 +2766,6 @@ Train Taxi
 Transporter Hot Pursuit
 Trap Craft
 Trap the Cat 2D
-Trappersquares io
 Travel Tile
 Travel With Me ASMR Edition
 Treasure Hunt Idle
@@ -2900,7 +2901,6 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
-Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
