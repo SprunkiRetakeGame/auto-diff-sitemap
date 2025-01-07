@@ -197,6 +197,7 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
+Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -241,7 +242,6 @@ Big Tower Tiny Square 2
 Bike Jump Online Game
 Bike Mania
 Bike Stunts Race Bike Games 3D
-Bike Trial Xtreme Forest
 Biker Street
 Billiards Pool 8
 Billionaire Wife Dress Up Game
@@ -417,6 +417,7 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
+Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -537,6 +538,7 @@ ColorTris
 Colorful City of Cards
 Coloring by Numbers Pixel House
 Coloring by Numbers Pixel Room
+Colors Craft
 Commando 2D
 Commit Battery
 Commit battery 2
@@ -546,6 +548,7 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
+Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
@@ -562,6 +565,7 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
+Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -677,7 +681,6 @@ Dalgona Game
 Dancing Dreamer
 Dandan Slime
 Dark Academy Fashion Game
-Dark Lands
 Darts Club Online Game
 Darts Idle
 Dash Hero
@@ -868,7 +871,6 @@ Epic Army Clash
 Epic Basketball
 Epic Empire Tower Defense
 EpicBallz io
-Eraze That
 Escape 20 Rooms
 Escape From Prison Multiplayer
 Escape Game Room With a Lamp
@@ -899,7 +901,6 @@ Extreme Makeover Harley Edition
 Extreme Offroad Cars 2
 FG Factory 2
 FNaF Shooter
-FTD Fixin to Die
 Fabby Golf
 Factory Balls Forever
 Fairy Puzzle
@@ -989,13 +990,13 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
-Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
 Flying Road
 Flywheel Incremental
 Food Truck Chef™ A Fun Cooking Game
+Food Tycoon FRVR
 FoodStars io
 Foono Online Multiplayer
 Foosball 3D
@@ -1174,7 +1175,6 @@ Gun Strike Runner
 GunMaster io
 Guns and Magic
 Guns of Rage
-GunsBytes io
 Gym Simulator 2024
 Hacking Hero Hacker Clicker
 Halloween Chainsaw Massacre
@@ -1230,6 +1230,7 @@ Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
+Hexanaut io
 Hexo Land
 Hextris
 Hidden Objects Online Game
@@ -1254,6 +1255,7 @@ Holey io Battle Royale
 Home Builder 3D
 Home Design Decorate House
 Home Flip
+Hook & Slice
 Hook Arena
 Hoop World 3D
 Horde Hunters
@@ -1361,6 +1363,7 @@ Idle Supermarket Tycoon
 Idle Superpowers
 Idle Train Empire Tycoon
 Idle Treadmill
+Idle World
 Idle World Miner Tycoon
 Idle Zoo
 Immortal Taoists
@@ -1470,7 +1473,9 @@ Kogama Christmas Parkour
 Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
+Kogama Longest Stairs
 Kogama Mountain Climber
+Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama Sonic Dash 2
@@ -1560,7 +1565,6 @@ Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
-Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1722,7 +1726,6 @@ MineClicker
 MineClicker 2
 MineCraft io
 MineEnergy fun
-MineEnergy2
 MineTap Merge Clicker
 Minecube
 Miner Cat 4
@@ -1981,7 +1984,6 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
-Paper Plane Jam 3d
 Paper io 2
 Paperly Paper Plane Adventure
 Park Master Car Parking Jam
@@ -1995,7 +1997,6 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
-Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
@@ -2264,7 +2265,6 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
-SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2279,8 +2279,6 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-Santa Vs Skritch
-SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2288,7 +2286,6 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
-Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2329,7 +2326,6 @@ Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
-Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2361,7 +2357,6 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
-Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2372,6 +2367,7 @@ Slime Conquer Epic Battles
 Slime Farm 2 Gold Rush
 Slime Farm 3
 Slime Farm Remake
+Slime Jumper
 Slime Knight
 Slingshot Crash
 Slingshot Fortress
@@ -2555,6 +2551,7 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
+Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2691,6 +2688,7 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
+The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2766,6 +2764,7 @@ Train Taxi
 Transporter Hot Pursuit
 Trap Craft
 Trap the Cat 2D
+Trappersquares io
 Travel Tile
 Travel With Me ASMR Edition
 Treasure Hunt Idle
@@ -2873,10 +2872,10 @@ Western Shooter Battle Gun Duel
 What a Leg
 What s the difference Online
 Wheelie Up
-Wheelstars
 Whooo
 Wild Archer Castle Defense
 Wild Castle TD Grow Empire
+Wild Hunter 3D
 Wild Ranch Business Simulator
 Wildlife Haven Sandbox Safari
 Wings io
@@ -2901,6 +2900,7 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
+Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
