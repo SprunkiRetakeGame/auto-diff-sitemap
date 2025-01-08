@@ -58,7 +58,6 @@ Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
 Adventures of Flig
-Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -249,6 +248,7 @@ Bio Zone
 Biomons Island 3D
 Bird Flight Idle
 Bird Sort Puzzle
+Bit Gun io
 Bitcoin Mining Simulator
 Black Friday Mystery Sale
 Black Hole Blitz
@@ -417,7 +417,6 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
-Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -443,7 +442,6 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
-Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -509,7 +507,6 @@ Clone2048
 Club Tycoon Idle Clicker
 Code Animal
 Coffee Idle
-Coin Clicker
 CoinBlock Clicker
 Collect Em All
 College Girl & Boy Makeover
@@ -538,7 +535,6 @@ ColorTris
 Colorful City of Cards
 Coloring by Numbers Pixel House
 Coloring by Numbers Pixel Room
-Colors Craft
 Commando 2D
 Commit Battery
 Commit battery 2
@@ -548,12 +544,12 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
-Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
 Construction Ramp Jumping
 Cookie Clicker Save the World
+Cookie Delivery
 Cookie Hangman
 Cookin Truck
 Cooking Festival
@@ -565,7 +561,6 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
-Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -901,6 +896,7 @@ Extreme Makeover Harley Edition
 Extreme Offroad Cars 2
 FG Factory 2
 FNaF Shooter
+FTD Fixin to Die
 Fabby Golf
 Factory Balls Forever
 Fairy Puzzle
@@ -990,6 +986,7 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
+Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
@@ -1175,6 +1172,7 @@ Gun Strike Runner
 GunMaster io
 Guns and Magic
 Guns of Rage
+GunsBytes io
 Gym Simulator 2024
 Hacking Hero Hacker Clicker
 Halloween Chainsaw Massacre
@@ -1230,7 +1228,6 @@ Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
-Hexanaut io
 Hexo Land
 Hextris
 Hidden Objects Online Game
@@ -1447,7 +1444,6 @@ Killer Whale Online
 King Survivors
 King io World War
 King s Landing Arcade Idle
-Kingdom Rush
 Kingdom of Pixels
 Kingmaker Academy Warrior s Duels
 Kings Clash
@@ -1460,6 +1456,7 @@ Kitty Cats
 Kitty Clickler
 Kitty Scramble
 Kity Builder
+Knife Master Ball Racing
 Knight Hero 2 Revenge Idle RPG
 Knight Hero Adventure idle RPG
 Knight of Chess
@@ -1560,11 +1557,11 @@ Love Archer
 Love Clicker Valentine s Day
 Love Colors
 Love In Style
-Lucky Life
 Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
+Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1572,7 +1569,6 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
-MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1657,7 +1653,6 @@ Mega Fall Ragdoll Simulator
 Mega Ragdoll Sandbox Simulator
 Mega Ramp Car Game Car Stunts
 Mega Ramp Car Stunt
-Megabattle
 Megalodon Game
 MegamodGames
 Memoji Puzzle
@@ -1683,7 +1678,6 @@ Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
 Merge Mine Mobs Attack
-Merge Pickaxe 2
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1726,6 +1720,7 @@ MineClicker
 MineClicker 2
 MineCraft io
 MineEnergy fun
+MineEnergy2
 MineTap Merge Clicker
 Minecube
 Miner Cat 4
@@ -1776,7 +1771,6 @@ Monster Bash FRVR
 Monster Battle
 Monster Box
 Monster Cars Ultimate Simulator
-Monster Christmas Terror
 Monster Clearer
 Monster Defense
 Monster Duel
@@ -1892,6 +1886,7 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
+Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -1939,6 +1934,7 @@ Offroad Racing
 Offroader V6
 Oh Flip
 Oh My Goth
+Oh So Lucky
 Oil Digging Game
 Oil Painting Jigsaw
 Om Nom Bubbles
@@ -1984,6 +1980,7 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
+Paper Plane Jam 3d
 Paper io 2
 Paperly Paper Plane Adventure
 Park Master Car Parking Jam
@@ -2279,6 +2276,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+Santa Vs Skritch
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2286,6 +2284,7 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
+Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2357,6 +2356,7 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
+Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2474,6 +2474,7 @@ SquadBlast
 Square Bird
 Squarun
 Squeaky Rafts
+Squid Game Online
 Squirrel With a Gun
 Squishy Fruits
 Stabfish 2
@@ -2599,7 +2600,6 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
-Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2691,6 +2691,7 @@ The Shiny Ones
 The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
+The Undisputables Online Multiplayer
 The White Room
 The White Room 2
 The White Room 3
@@ -2900,7 +2901,6 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
-Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
