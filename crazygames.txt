@@ -58,6 +58,7 @@ Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
 Adventures of Flig
+Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -162,6 +163,7 @@ Bad Dolls
 Bad Egg
 Bad Soccer Manager
 Badland Game
+Bag Defense
 Ball Blast
 Ball Blaster
 Ball Block Maze
@@ -218,6 +220,7 @@ BattleDudes
 BattleTabs
 Beach Ball Online Game
 Beam Game
+Bear vs Humans
 Beauty Princess Makeup Game
 Beaver Builder
 Beaver Weaver
@@ -314,6 +317,7 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
+Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
@@ -417,6 +421,7 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
+Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -507,6 +512,7 @@ Clone2048
 Club Tycoon Idle Clicker
 Code Animal
 Coffee Idle
+Coin Clicker
 CoinBlock Clicker
 Collect Em All
 College Girl & Boy Makeover
@@ -676,6 +682,7 @@ Dalgona Game
 Dancing Dreamer
 Dandan Slime
 Dark Academy Fashion Game
+Dark Lands
 Darts Club Online Game
 Darts Idle
 Dash Hero
@@ -804,7 +811,6 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
-Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -879,6 +885,7 @@ Escape or Die 3
 Escape or Die 4
 Escape the Dog
 Eternal Road
+Euro Truck Driving Simulator 2025
 Ev io
 Evade Game
 Everytown
@@ -896,7 +903,6 @@ Extreme Makeover Harley Edition
 Extreme Offroad Cars 2
 FG Factory 2
 FNaF Shooter
-FTD Fixin to Die
 Fabby Golf
 Factory Balls Forever
 Fairy Puzzle
@@ -986,14 +992,12 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
-Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
 Flying Road
 Flywheel Incremental
 Food Truck Chef™ A Fun Cooking Game
-Food Tycoon FRVR
 FoodStars io
 Foono Online Multiplayer
 Foosball 3D
@@ -1078,7 +1082,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1113,13 +1116,11 @@ Glitch Game
 Global City
 Glove Power
 Glowit Two Players
-Go Chicken Go
 Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
-God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1172,7 +1173,6 @@ Gun Strike Runner
 GunMaster io
 Guns and Magic
 Guns of Rage
-GunsBytes io
 Gym Simulator 2024
 Hacking Hero Hacker Clicker
 Halloween Chainsaw Massacre
@@ -1269,6 +1269,7 @@ Hospital Hustle
 Hospital Simulator
 Hostage Negotiator Online
 Hot Lava Floor
+Hot Pot Game
 HotDog TD
 House Escape Office
 House Flip
@@ -1470,8 +1471,6 @@ Kogama Christmas Parkour
 Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
-Kogama Longest Stairs
-Kogama Mountain Climber
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1536,7 +1535,6 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
-Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1569,6 +1567,7 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
+MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1677,7 +1676,7 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
-Merge Mine Mobs Attack
+Merge Pickaxe 2
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1771,6 +1770,7 @@ Monster Bash FRVR
 Monster Battle
 Monster Box
 Monster Cars Ultimate Simulator
+Monster Christmas Terror
 Monster Clearer
 Monster Defense
 Monster Duel
@@ -1847,6 +1847,7 @@ My Sugar Factory 2
 My Sugar Factory 3
 My Sweet World
 My Town Home Family Playhouse
+Mystery Digger
 Mystery Mansion Puzzle Escape
 Mystic Escape
 Mystic Square Mystery Trail
@@ -1886,7 +1887,6 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
-Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -1934,7 +1934,6 @@ Offroad Racing
 Offroader V6
 Oh Flip
 Oh My Goth
-Oh So Lucky
 Oil Digging Game
 Oil Painting Jigsaw
 Om Nom Bubbles
@@ -1976,7 +1975,6 @@ Pancake Maker
 Panda Simulator 3D
 Panther Family Simulator 3D
 Papa Cherry Saga
-Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
@@ -1994,9 +1992,11 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
+Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
+Pawggle
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
@@ -2247,7 +2247,6 @@ Royal Merge
 Royal Pool Online Game
 Rude Races
 Rummy Blast
-Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2276,7 +2275,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-Santa Vs Skritch
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2284,7 +2283,6 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
-Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2321,10 +2319,10 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
-Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
+Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2356,7 +2354,6 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
-Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2475,6 +2472,7 @@ Square Bird
 Squarun
 Squeaky Rafts
 Squid Game Online
+Squid Game Online Game
 Squirrel With a Gun
 Squishy Fruits
 Stabfish 2
@@ -2816,6 +2814,7 @@ Unicorn Dress Up Coloring Book
 Unicorn Family Simulator Magic World
 Unicorn Kingdom Merge and win Stickers
 Unicycle Mayhem
+Uno Online
 Unpuzzle Tap Away Puzzle Game
 Unscrew It Puzzle Game
 Unscrew Jam 3D
@@ -2873,6 +2872,7 @@ Western Shooter Battle Gun Duel
 What a Leg
 What s the difference Online
 Wheelie Up
+Wheelstars
 Whooo
 Wild Archer Castle Defense
 Wild Castle TD Grow Empire
