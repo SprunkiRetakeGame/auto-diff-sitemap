@@ -84,6 +84,7 @@ Alchemy Game
 Alchemy Merge Clicker
 Algerian Solitaire
 Aloha Mahjong
+Alpha Guns
 Amazing Crime Strange Stickman
 Amazing Strange Rope Police
 Amazing Word Twist
@@ -198,6 +199,7 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
+Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -566,6 +568,7 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
+Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -657,6 +660,7 @@ Cuttie Pet Shop
 Cyber Farm
 Cyber Rage Retribution
 CyberDino
+CyberDino 3D
 CyberShark
 Cyberpunk City Fashion
 Cyberpunk Corporation
@@ -902,7 +906,6 @@ Extreme Makeover Harley Edition
 Extreme Offroad Cars 2
 FG Factory 2
 FNaF Shooter
-FTD Fixin to Die
 Fabby Golf
 Factory Balls Forever
 Fairy Puzzle
@@ -911,6 +914,7 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
+Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
 Falling Fruits
@@ -928,6 +932,7 @@ Farm Merge Valley
 Farmer Challenge Party
 Farming Life Online Game
 Fashion Box Christmas Diva
+Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1001,6 +1006,7 @@ FoodStars io
 Foono Online Multiplayer
 Foosball 3D
 Foot Chinko
+Foot Chinko Russia 2018
 Football Clicker
 Force Drift Racing Aussie Burnout
 Forebloomed
@@ -1081,7 +1087,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1142,7 +1147,6 @@ Grab and Run
 Graduation Makeup Trends
 Graffiti Time
 Gragyriss
-Grand Action Simulator New York Car Gang
 Grand Stunt Auto
 Grand Stunt Auto 2
 Grandfather Road Chase Realistic Shooter
@@ -1191,8 +1195,6 @@ Happy Farm The Crop
 Happy Glass
 Happy Town Game
 Hard Game 2
-Hardware Tycoon
-Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
 HasteMiner
@@ -1228,7 +1230,6 @@ Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
-Hexanaut io
 Hexo Land
 Hextris
 Hidden Objects Online Game
@@ -1274,7 +1275,7 @@ Hot Pot Game
 HotDog TD
 House Escape Office
 House Flip
-House of Celestina Chapter Two
+House of Celestina
 House of Fashion
 House of Hazards
 Hula Hoop Race
@@ -1405,6 +1406,7 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1469,11 +1471,9 @@ Kogama 2 Player Tron
 Kogama 4 Players Parkour
 Kogama Adopt Me
 Kogama Christmas Parkour
-Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Parkour Professional
-Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama Sonic Dash 2
 Kogama The Elevator
@@ -1520,6 +1520,7 @@ Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
 Letters Match
 Level Eaten
+Lexy
 Lhama Clicker
 Life in the Static
 Light Academia Fashion
@@ -1557,7 +1558,6 @@ Love Archer
 Love Clicker Valentine s Day
 Love Colors
 Love In Style
-Lucky Life
 Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
@@ -1653,7 +1653,6 @@ Mega Fall Ragdoll Simulator
 Mega Ragdoll Sandbox Simulator
 Mega Ramp Car Game Car Stunts
 Mega Ramp Car Stunt
-Megabattle
 Megalodon Game
 MegamodGames
 Memoji Puzzle
@@ -1678,7 +1677,6 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
-Merge Mine Mobs Attack
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1720,6 +1718,7 @@ MineClicker
 MineClicker 2
 MineEnergy fun
 MineEnergy2
+MineTap Merge Clicker
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1885,7 +1884,6 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
-Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -1920,6 +1918,7 @@ Obstacle Race Destroying simulator
 Ocean Blast
 Ocean Miner
 OctopusRun
+Office Brawl Room Smash
 Office Dress Up
 Office Fight
 Office Tycoon Expand & Manage
@@ -1974,11 +1973,9 @@ Pancake Maker
 Panda Simulator 3D
 Panther Family Simulator 3D
 Papa Cherry Saga
-Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
-Paper Plane Jam 3d
 Paper io 2
 Paperly Paper Plane Adventure
 Park Master Car Parking Jam
@@ -2135,6 +2132,7 @@ Puzzle Balls
 Puzzle LINES AND KNOTS 1
 Puzzle Play
 Puzzle Room Escape
+Puzzle What a Twist
 Puzzle Wood Block
 Pyramid Solitaire Ancient Egypt
 Python Snake Simulator
@@ -2267,16 +2265,17 @@ SSSPICY
 STACK it
 STUG io
 SURF Game
+Sail Adventure
 Same Game
 Samurai Legacy
 Samurai Madness
-Samurai Showdown
 Sand King
 Sand Tetris
 SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+Santa Vs Skritch
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2284,7 +2283,6 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
-Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2324,7 +2322,6 @@ Shoot Gun Clicker
 Shoot and Drive
 ShooterZ
 Shootup io
-Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2333,6 +2330,7 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
+Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2374,6 +2372,7 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
+SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2703,7 +2702,6 @@ Thief Puzzle
 Think to Escape
 Think to Escape 2
 Think to Escape 3
-Think to Escape School
 Three Goblets
 Tic Tac Toe Online
 Tictoc Catwalk Fashion
@@ -2715,6 +2713,7 @@ Tiger Simulator 3D
 TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
+TikTok Trends Boyfriend Fashion
 TikTok Trends Colored Denim
 TikTok Urban Outfits
 Tile Craft 3D
@@ -2901,7 +2900,6 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
-Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
@@ -2913,6 +2911,7 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
+WorldZ
 Worm Hunt
 Worms Zone
 Worms io
@@ -2962,6 +2961,7 @@ Zombie Raft
 Zombie Survival
 Zombie Survival Ultimate
 Zombie World
+Zombie World Escape
 Zombie coming roguelike siege
 Zombies Attack Idle
 Zombies Shooter
