@@ -199,7 +199,6 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
-Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -291,7 +290,6 @@ Blocky Trials
 Blogger Clicker
 Bloom Sort
 Bloxd io
-Blubble io
 Boat Attack
 Bobb s World
 BodyCamera Shooter
@@ -448,7 +446,6 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
-Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -568,7 +565,6 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
-Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -814,6 +810,7 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
+Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -1085,8 +1082,8 @@ Galactic Crusade Clicker
 Galactic Grind
 Galaxy Clicker
 Game Cafe Escape
-Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1147,6 +1144,7 @@ Grab and Run
 Graduation Makeup Trends
 Graffiti Time
 Gragyriss
+Grand Action Simulator New York Car Gang
 Grand Stunt Auto
 Grand Stunt Auto 2
 Grandfather Road Chase Realistic Shooter
@@ -1195,6 +1193,8 @@ Happy Farm The Crop
 Happy Glass
 Happy Town Game
 Hard Game 2
+Hardware Tycoon
+Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
 HasteMiner
@@ -1276,6 +1276,7 @@ HotDog TD
 House Escape Office
 House Flip
 House of Celestina
+House of Celestina Chapter Two
 House of Fashion
 House of Hazards
 Hula Hoop Race
@@ -1368,7 +1369,6 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
-Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1468,12 +1468,12 @@ Knightin
 Knockout
 Kobolm Rescue
 Kogama 2 Player Tron
-Kogama 4 Players Parkour
 Kogama Adopt Me
 Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Parkour Professional
+Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama Sonic Dash 2
 Kogama The Elevator
@@ -1520,7 +1520,6 @@ Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
 Letters Match
 Level Eaten
-Lexy
 Lhama Clicker
 Life in the Static
 Light Academia Fashion
@@ -1558,10 +1557,12 @@ Love Archer
 Love Clicker Valentine s Day
 Love Colors
 Love In Style
+Lucky Life
 Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
+Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1707,6 +1708,7 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
+Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -2098,7 +2100,6 @@ Power Badminton
 Power Blocks
 Power Players Defenders
 Power the Grid
-Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
@@ -2275,7 +2276,6 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-Santa Vs Skritch
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2319,9 +2319,11 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
+Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
+Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2372,7 +2374,6 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
-SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2550,7 +2551,6 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
-Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2702,6 +2702,7 @@ Thief Puzzle
 Think to Escape
 Think to Escape 2
 Think to Escape 3
+Think to Escape School
 Three Goblets
 Tic Tac Toe Online
 Tictoc Catwalk Fashion
@@ -2871,7 +2872,6 @@ Western Shooter Battle Gun Duel
 What a Leg
 What s the difference Online
 Wheelie Up
-Wheelstars
 Whooo
 Wild Archer Castle Defense
 Wild Castle TD Grow Empire
