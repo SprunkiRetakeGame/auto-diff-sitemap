@@ -58,7 +58,6 @@ Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
 Adventures of Flig
-Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -153,6 +152,7 @@ BLOCOPS
 BORE BLASTERS
 Babel Tower Game
 Baby Adopter
+Baby Adopter Dress Up
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -290,6 +290,7 @@ Blocky Trials
 Blogger Clicker
 Bloom Sort
 Bloxd io
+Blubble io
 Boat Attack
 Bobb s World
 BodyCamera Shooter
@@ -911,6 +912,7 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
+Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -929,7 +931,6 @@ Farm Merge Valley
 Farmer Challenge Party
 Farming Life Online Game
 Fashion Box Christmas Diva
-Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1082,8 +1083,8 @@ Galactic Crusade Clicker
 Galactic Grind
 Galaxy Clicker
 Game Cafe Escape
+Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1144,7 +1145,6 @@ Grab and Run
 Graduation Makeup Trends
 Graffiti Time
 Gragyriss
-Grand Action Simulator New York Car Gang
 Grand Stunt Auto
 Grand Stunt Auto 2
 Grandfather Road Chase Realistic Shooter
@@ -1369,6 +1369,7 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
+Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1406,7 +1407,6 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1472,6 +1472,7 @@ Kogama Adopt Me
 Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
+Kogama Mountain Climber
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1708,7 +1709,6 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
-Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -1975,6 +1975,7 @@ Pancake Maker
 Panda Simulator 3D
 Panther Family Simulator 3D
 Papa Cherry Saga
+Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
@@ -1991,7 +1992,6 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
-Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
@@ -2100,6 +2100,7 @@ Power Badminton
 Power Blocks
 Power Players Defenders
 Power the Grid
+Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
@@ -2261,6 +2262,7 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
+SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2319,7 +2321,6 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
-Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
@@ -2374,6 +2375,7 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
+SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2542,7 +2544,6 @@ Sticky Fruits
 Stone Idle
 Store Manager Game
 Stormy Kicker
-Strawberella
 Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
@@ -2714,7 +2715,6 @@ Tiger Simulator 3D
 TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
-TikTok Trends Boyfriend Fashion
 TikTok Trends Colored Denim
 TikTok Urban Outfits
 Tile Craft 3D
