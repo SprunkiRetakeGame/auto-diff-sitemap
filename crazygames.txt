@@ -152,7 +152,6 @@ BLOCOPS
 BORE BLASTERS
 Babel Tower Game
 Baby Adopter
-Baby Adopter Dress Up
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -199,6 +198,7 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
+Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -231,7 +231,6 @@ Beekeeping Company
 Bees Clicker
 Behold Battle
 Bell Madness
-Berzingue
 Big Euro Truck Driving
 Big FLAPPY Tower Tiny Square
 Big Giant Games Prison Escape Puzzle
@@ -259,6 +258,7 @@ Black Light Escape
 Black Light Escape 2
 Blackjack Master
 Blackriver Mystery Hidden Objects
+Blade Merge
 Blade of Dimensions
 Blaster Pranks
 Blitz Tanks
@@ -317,7 +317,6 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
-Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
@@ -447,6 +446,7 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
+Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -720,7 +720,6 @@ Designville Merge & Design
 Destroy Base
 Detective IQ Brain Games
 Detective Loupe Puzzle
-Devil s Road
 Diamond Drawing by Numbers
 Diamond Dungeon Match 3
 Diamond Rush 2
@@ -792,7 +791,6 @@ Draw My Way
 Draw Quiz
 Draw Tattoo game
 Draw To Smash
-Drawer Super Racer
 Drednot io
 Dress Up Games & Coloring Book
 Dress Up Rewind
@@ -855,7 +853,6 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
-Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -912,7 +909,6 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
-Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -962,7 +958,6 @@ Find Me Lost Objects
 Find The Alien
 Find The Difference
 Find the Pieces Online Game
-Find them all
 Finger Fury Flashmaster
 Fire Truck Driving School
 FireBlob
@@ -1085,6 +1080,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1190,10 +1186,8 @@ Hand Spinner IO 3D
 Hanoi 3D
 Happy Cakes
 Happy Farm The Crop
-Happy Glass
 Happy Town Game
 Hard Game 2
-Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1407,6 +1401,7 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1472,7 +1467,7 @@ Kogama Adopt Me
 Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
-Kogama Mountain Climber
+Kogama Longest Stairs
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1563,7 +1558,6 @@ Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
-Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1571,6 +1565,7 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
+MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1674,11 +1669,13 @@ Merge Cannon Chicken Defense
 Merge Cooking Game
 Merge Defense
 Merge Fruits
+Merge Galaxy
 Merge Happy Planets
 Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
+Merge Mine Mobs Attack
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1699,6 +1696,7 @@ Met Rage
 Metal Guns Fury
 Metro Connect
 Metro Escape
+Microbe Mania Cannon Strike
 Mighty Action Heroes
 Mike And Mia 1st Day At School
 Mike And Mia Beach Day
@@ -1979,6 +1977,7 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
+Paper Princess Doll Dress Up
 Paper io 2
 Paperly Paper Plane Adventure
 Park Master Car Parking Jam
@@ -1992,6 +1991,7 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
+Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
@@ -2104,7 +2104,6 @@ Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
-Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
@@ -2262,7 +2261,6 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
-SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2357,6 +2355,7 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
+Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2544,6 +2543,7 @@ Sticky Fruits
 Stone Idle
 Store Manager Game
 Stormy Kicker
+Strawberella
 Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
@@ -2807,7 +2807,6 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
-Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2900,6 +2899,7 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
+Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
