@@ -57,7 +57,7 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
-Adventures of Flig
+Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -198,7 +198,6 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
-Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -317,6 +316,7 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
+Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
@@ -566,6 +566,7 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
+Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -757,7 +758,6 @@ Doc HoneyBerry Kitty Surgery
 Doc HoneyBerry Puppy Surgery
 Dodge The Walls
 Dodgeball online
-Dog Life Simulator
 Dog Simulator 3D
 Dogeminer
 Dogeminer 2
@@ -809,7 +809,6 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
-Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -853,6 +852,7 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
+Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -909,6 +909,7 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
+Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -958,6 +959,7 @@ Find Me Lost Objects
 Find The Alien
 Find The Difference
 Find the Pieces Online Game
+Find them all
 Finger Fury Flashmaster
 Fire Truck Driving School
 FireBlob
@@ -1115,11 +1117,11 @@ Glitch Game
 Global City
 Glove Power
 Glowit Two Players
-Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
+God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1463,11 +1465,12 @@ Knightin
 Knockout
 Kobolm Rescue
 Kogama 2 Player Tron
+Kogama 4 Players Parkour
 Kogama Adopt Me
 Kogama Christmas Parkour
+Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
-Kogama Longest Stairs
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1514,8 +1517,8 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
-Letters Match
 Level Eaten
+Lexy
 Lhama Clicker
 Life in the Static
 Light Academia Fashion
@@ -1675,7 +1678,6 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
-Merge Mine Mobs Attack
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1718,7 +1720,6 @@ MineClicker
 MineClicker 2
 MineEnergy fun
 MineEnergy2
-MineTap Merge Clicker
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1756,7 +1757,6 @@ Modern Car Racing 2
 Mole Heist
 Mom s Diary 2
 Mom s Diary Cooking Games
-Momlife Simulator
 Money Factory
 Money Printer
 Money Tree 2 Cash Grow Game
@@ -1884,6 +1884,7 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
+Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -1977,7 +1978,9 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
+Paper Plane Jam 3d
 Paper Princess Doll Dress Up
+Paper Soccer Online
 Paper io 2
 Paperly Paper Plane Adventure
 Park Master Car Parking Jam
@@ -1991,7 +1994,6 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
-Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
@@ -1999,7 +2001,6 @@ Pawggle
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
-Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
 Penalty Rivals
@@ -2104,6 +2105,7 @@ Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
+Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
@@ -2261,6 +2263,7 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
+SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2276,6 +2279,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+Santa Vs Skritch
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2283,6 +2287,7 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
+Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2319,10 +2324,10 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
+Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
-Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2356,7 +2361,6 @@ Slash Royal
 Slash the Rope
 Slasher Online Game
 Slenderman VS Freddy The Fazbear
-Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2374,7 +2378,6 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
-SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2505,6 +2508,7 @@ Stickman Army Team Battle
 Stickman Army The Defenders
 Stickman Army The Resistance
 Stickman Beach Volleyball
+Stickman Bow
 Stickman Bullet Warriors
 Stickman Challenge
 Stickman Clash
@@ -2552,6 +2556,7 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
+Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2688,7 +2693,6 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
-The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2716,7 +2720,6 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
-TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
@@ -2753,7 +2756,6 @@ Tower Swap
 TowerWatch PVP Battle
 Towering Trials
 Toy Rider
-Tracesoccer
 Traffic Cop 3D
 Traffic Loop Game
 Train Adventure
@@ -2763,7 +2765,6 @@ Train Taxi
 Transporter Hot Pursuit
 Trap Craft
 Trap the Cat 2D
-Trappersquares io
 Travel Tile
 Travel With Me ASMR Edition
 Treasure Hunt Idle
@@ -2807,6 +2808,7 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
+Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2899,7 +2901,6 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
-Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
