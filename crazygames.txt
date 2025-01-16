@@ -2,6 +2,7 @@
 10 Minutes Till Dawn
 10 More Bullets
 10 minute mage
+100 Doors
 100 Doors Challenge
 100 Doors Puzzle Box
 100 Meters Race
@@ -57,6 +58,7 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
+Adventures of Flig
 Against Zombies Game
 Agar io
 Age Of Arms
@@ -259,7 +261,6 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
-Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -347,6 +348,7 @@ Bubble Woods
 Bubbly Lab
 Bucket Crusher
 Buggy Kart Racing
+Build & Survive
 Build And Run
 Build House Simulator
 Build Now Gg
@@ -420,7 +422,6 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
-Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -446,7 +447,6 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
-Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -566,7 +566,6 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
-Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -809,6 +808,7 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
+Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -852,7 +852,6 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
-Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -909,8 +908,6 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
-Fall Fashion Style
-Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
 Falling Fruits
@@ -928,6 +925,7 @@ Farm Merge Valley
 Farmer Challenge Party
 Farming Life Online Game
 Fashion Box Christmas Diva
+Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1082,7 +1080,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1117,11 +1114,11 @@ Glitch Game
 Global City
 Glove Power
 Glowit Two Players
+Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
-God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1190,6 +1187,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
+Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1471,6 +1469,8 @@ Kogama Christmas Parkour
 Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
+Kogama Longest Stairs
+Kogama Mountain Climber
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1517,8 +1517,8 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
+Letters Match
 Level Eaten
-Lexy
 Lhama Clicker
 Life in the Static
 Light Academia Fashion
@@ -1568,7 +1568,6 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
-MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1815,7 +1814,6 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1829,6 +1827,7 @@ Mutant Escape
 Mutant Idle
 My Chicken Farm
 My Crystal Underwater
+My Dinoland
 My Dweller Gang
 My Flour Factory
 My Imperfect Cult
@@ -1884,7 +1883,6 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
-Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
@@ -2105,7 +2103,6 @@ Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
-Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
@@ -2165,6 +2162,7 @@ Ragdoll Arena 2 Player
 Ragdoll Fight
 Ragdoll Soccer 2 players
 Ragdoll Throw Challenge
+Rage Fruits Tower Defense
 Rainbow Snake
 Rally Point
 Rally Point 2
@@ -2273,13 +2271,13 @@ Sail Adventure
 Same Game
 Samurai Legacy
 Samurai Madness
+Samurai Showdown
 Sand King
 Sand Tetris
 SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-Santa Vs Skritch
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2361,6 +2359,7 @@ Slash Royal
 Slash the Rope
 Slasher Online Game
 Slenderman VS Freddy The Fazbear
+Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2693,6 +2692,7 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
+The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
