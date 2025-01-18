@@ -57,6 +57,7 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
+Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -146,6 +147,7 @@ BFFs Black Friday Shopping
 BFFs Golden Hour
 BFFs K Pop Fangirls
 BFFs Luxury Loungewear
+BFFs Y2K Fashion
 BLOCOPS
 BORE BLASTERS
 Babel Tower Game
@@ -196,6 +198,7 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
+Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -314,12 +317,10 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
-Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
-Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -344,6 +345,7 @@ Bubble Tower 3D
 Bubble Woods
 Bubbly Lab
 Bucket Crusher
+Buggy Kart Racing
 Build & Survive
 Build And Run
 Build House Simulator
@@ -418,7 +420,6 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
-Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -986,6 +987,7 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
+Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
@@ -1032,6 +1034,7 @@ Fruit Merge Juicy Drop Game
 Fruit Stab Challenge
 Frutball
 Fun Colors
+Fun Puzzles
 Fungi World
 Funny Angela Haircut
 Funny Animal Cafe
@@ -1078,6 +1081,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1170,10 +1174,12 @@ Guns and Magic
 Guns of Rage
 Gym Simulator 2024
 Hacking Hero Hacker Clicker
+Hair Salon Beauty Salon Game
 Halloween Chainsaw Massacre
 Halloween Escape
 Halloween Makeup Trends
 Halloween Merge
+Hammer 2
 Hammer Maste Craft & Destroy
 Hammer Worker
 Hamster Factory ASMR
@@ -1185,7 +1191,6 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
-Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1211,6 +1216,7 @@ Hero 3 Flying Robot
 Hero Battle Fantasy Arena
 Hero Castle War Tower Attack
 Hero Survivors
+Herobrine vs Monster School
 Herochero Enemy Slayer
 Heroes of Match 3
 Heroes of Tiny Kingdom
@@ -1331,7 +1337,6 @@ Idle IT Company
 Idle Idle Gamedev
 Idle Inventor
 Idle Mine Remix
-Idle Miner
 Idle Mining Empire
 Idle Mobs Farm
 Idle Monster Slayer
@@ -1362,7 +1367,6 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
-Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1556,6 +1560,7 @@ Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
+Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1715,7 +1720,6 @@ Mine to the Last
 MineClicker
 MineClicker 2
 MineEnergy fun
-MineEnergy2
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1998,7 +2002,6 @@ Pawggle
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
-Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
 Penalty Rivals
@@ -2103,7 +2106,6 @@ Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
-Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
@@ -2358,7 +2360,6 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
-Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2377,7 +2378,6 @@ Slingshot Stunt Driver & Sport
 Slope Car
 Slope Tunnel
 Slushy Maker
-SmartFriends
 Smarty Bubbles
 Smash Karts
 Smash N Collect
@@ -2556,7 +2556,6 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
-Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2604,6 +2603,7 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
+Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2692,7 +2692,6 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
-The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2901,6 +2900,7 @@ Word Duel
 Word Scramble Family Tales
 Word Search
 Word Shift
+Word Swipe
 Word Wipe
 Wording Online Game
 Wordler Game
