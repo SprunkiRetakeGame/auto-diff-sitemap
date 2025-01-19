@@ -83,7 +83,6 @@ Alchemy Game
 Alchemy Merge Clicker
 Algerian Solitaire
 Aloha Mahjong
-Alpha Guns
 Amazing Crime Strange Stickman
 Amazing Strange Rope Police
 Amazing Word Twist
@@ -149,7 +148,6 @@ BFFs K Pop Fangirls
 BFFs Luxury Loungewear
 BFFs Y2K Fashion
 BLOCOPS
-BORE BLASTERS
 Babel Tower Game
 Baby Adopter
 Baby Chicco Adventures
@@ -198,7 +196,6 @@ Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
 Bat Hero Immortal Legend Crime Fighter
-Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -260,7 +257,6 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
-Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -428,6 +424,7 @@ Castle Wars
 Castle Wars Middle Ages
 Castle Wars Modern
 Castle Wars New Era
+Castles cc Cubic Castles
 Cat Bakery
 Cat House Online Game
 Cat Life Simulator
@@ -759,6 +756,7 @@ Dog Simulator 3D
 Dogeminer
 Dogeminer 2
 Dogfight Game
+Doggo Clicker
 Doggy Tricks
 Domino Battle
 Don t Get the Job
@@ -850,6 +848,7 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
+Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -906,6 +905,7 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
+Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -925,6 +925,7 @@ Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
+Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1107,7 +1108,6 @@ Giant Rush Arena
 Giant Sushi
 Girl Coloring Dress Up Games
 Girl Dress Up Games Online
-Girlfriend from Hell
 Gladiator Fights
 Glam And Glossy
 Glamour Beach Life
@@ -1179,7 +1179,6 @@ Halloween Chainsaw Massacre
 Halloween Escape
 Halloween Makeup Trends
 Halloween Merge
-Hammer 2
 Hammer Maste Craft & Destroy
 Hammer Worker
 Hamster Factory ASMR
@@ -1191,6 +1190,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
+Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1295,7 +1295,6 @@ Hyperplex 3D
 Hypersomnia Game
 Hyperspace Racers 3
 I Best Dancer
-ICEE Scream Haunted Bubbles
 IDLE Animal Anatomy
 IDLE Molecules
 Ibiza Foam Party
@@ -1367,6 +1366,7 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
+Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1404,7 +1404,6 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1471,8 +1470,9 @@ Kogama Adopt Me
 Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
-Kogama Mountain Climber
+Kogama Longest Stairs
 Kogama Parkour Professional
+Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama Sonic Dash 2
 Kogama The Elevator
@@ -1517,6 +1517,7 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
+Letters Match
 Level Eaten
 Lhama Clicker
 Life in the Static
@@ -1560,7 +1561,6 @@ Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
 Ludo Legend
-Lulu Run
 Lulu s Fashion World
 Lunapark IDLE Clicker For Fun
 Lunar Atoms Tycoon
@@ -1568,6 +1568,7 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
+MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1709,7 +1710,6 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
-Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -1719,7 +1719,6 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
-MineEnergy fun
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1733,7 +1732,6 @@ Mini Car Ball
 Mini Crushers
 Mini Flips
 Mini Giants
-Mini Golf 18
 Mini Golf Club
 Mini Jumps
 Mini Mine
@@ -2035,6 +2033,7 @@ Pinturillo 2
 Pipe Puzzle
 Pipedown Online Game
 Pipes The Puzzle
+Pirate s Gold
 Pirates the match 3
 Pit Stop Helper
 Pixel Apocalypse Infection Begin
@@ -2274,6 +2273,7 @@ Sail Adventure
 Same Game
 Samurai Legacy
 Samurai Madness
+Samurai Showdown
 Sand King
 Sand Tetris
 SandStrike io
@@ -2323,11 +2323,9 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
-Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
-Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2336,7 +2334,6 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
-Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2360,6 +2357,7 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
+Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2556,6 +2554,7 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
+Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2603,7 +2602,6 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
-Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2692,6 +2690,7 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
+The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2719,6 +2718,7 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
+TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
