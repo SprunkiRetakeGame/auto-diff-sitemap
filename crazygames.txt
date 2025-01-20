@@ -83,6 +83,7 @@ Alchemy Game
 Alchemy Merge Clicker
 Algerian Solitaire
 Aloha Mahjong
+Alpha Guns
 Amazing Crime Strange Stickman
 Amazing Strange Rope Police
 Amazing Word Twist
@@ -124,7 +125,6 @@ Army Warfare
 Army of Silverite
 Armyclash io
 Arsenal Online shooting game
-Arx Arcana Last Mage Standing
 Ascent Game
 Assassin Hero
 Assault Bots
@@ -148,6 +148,7 @@ BFFs K Pop Fangirls
 BFFs Luxury Loungewear
 BFFs Y2K Fashion
 BLOCOPS
+BORE BLASTERS
 Babel Tower Game
 Baby Adopter
 Baby Chicco Adventures
@@ -545,6 +546,7 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
+Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
@@ -1108,6 +1110,7 @@ Giant Rush Arena
 Giant Sushi
 Girl Coloring Dress Up Games
 Girl Dress Up Games Online
+Girlfriend from Hell
 Gladiator Fights
 Glam And Glossy
 Glamour Beach Life
@@ -1121,6 +1124,7 @@ GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
+God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1149,7 +1153,6 @@ Grandma Recipe Apple Pie
 Grandma Recipe Nigiri Sushi
 Grandma Recipe Ramen
 Gravity Arena Shooter
-Great White Game
 Greedy Dwarves
 Gridle Game
 Gridpunk
@@ -1216,7 +1219,6 @@ Hero 3 Flying Robot
 Hero Battle Fantasy Arena
 Hero Castle War Tower Attack
 Hero Survivors
-Herobrine vs Monster School
 Herochero Enemy Slayer
 Heroes of Match 3
 Heroes of Tiny Kingdom
@@ -1295,6 +1297,7 @@ Hyperplex 3D
 Hypersomnia Game
 Hyperspace Racers 3
 I Best Dancer
+ICEE Scream Haunted Bubbles
 IDLE Animal Anatomy
 IDLE Molecules
 Ibiza Foam Party
@@ -1404,6 +1407,7 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1517,11 +1521,9 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
-Letters Match
 Level Eaten
 Lhama Clicker
 Life in the Static
-Light Academia Fashion
 Light Line
 Light The Lamp
 Lime Playground Sandbox
@@ -1535,7 +1537,6 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
-Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1678,7 +1679,6 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
-Merge Mine Mobs Attack
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1710,6 +1710,7 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
+Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -1719,6 +1720,8 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
+MineEnergy fun
+MineMerge
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1732,6 +1735,7 @@ Mini Car Ball
 Mini Crushers
 Mini Flips
 Mini Giants
+Mini Golf 18
 Mini Golf Club
 Mini Jumps
 Mini Mine
@@ -1813,6 +1817,7 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
+Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1863,7 +1868,6 @@ NextDoor Game
 Night City Racing
 Night Rider Game
 Night Watchman game
-Nightfall Drifters
 Ninja Bamboo Assassin
 Ninja Clash Heroes
 Ninja Escape
@@ -2105,6 +2109,7 @@ Practice On Me
 Prankster 3D
 President Simulator
 Press A to Party
+Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
@@ -2116,7 +2121,6 @@ Progress Knight
 Prom Night Dress Up
 Prune & Milo
 Puckit
-Pudding Monsters
 Punch Hero
 Punchers
 Puppet Fighter 2 Player
@@ -2247,7 +2251,6 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
-Rummy Blast
 Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
@@ -2263,7 +2266,6 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
-SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2287,6 +2289,7 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
+Scarred Online Game
 Scavenger Hunt Hidden Items
 Scoring Champion
 Screw Ball Online Game
@@ -2323,6 +2326,7 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
+Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
@@ -2718,7 +2722,6 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
-TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
@@ -2807,7 +2810,6 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
-Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2912,7 +2914,6 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
-WorldZ
 Worm Hunt
 Worms Zone
 Worms io
@@ -2929,7 +2930,6 @@ Yahtzee Online
 Yatzy
 Yellowstone Ranch online game
 Yet Another Merge Game
-You Are Being Watched
 You vs 100 Skibidi Toilets
 Your Chronicle
 Yummy Candy Factory
