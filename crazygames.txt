@@ -125,6 +125,7 @@ Army Warfare
 Army of Silverite
 Armyclash io
 Arsenal Online shooting game
+Arx Arcana Last Mage Standing
 Ascent Game
 Assassin Hero
 Assault Bots
@@ -196,6 +197,7 @@ Basketball Legends
 Basketball Serial Shooter
 Basketball Skills
 Basketball Stars
+Basketball Superstars
 Bat Hero Immortal Legend Crime Fighter
 Battalion Commander
 Battalion Commander 1917
@@ -258,6 +260,7 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
+Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -318,6 +321,7 @@ Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
+Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -425,7 +429,6 @@ Castle Wars
 Castle Wars Middle Ages
 Castle Wars Modern
 Castle Wars New Era
-Castles cc Cubic Castles
 Cat Bakery
 Cat House Online Game
 Cat Life Simulator
@@ -546,7 +549,6 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
-Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
@@ -806,7 +808,6 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
-Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -907,7 +908,6 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
-Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -927,7 +927,6 @@ Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
-Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1084,7 +1083,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1112,19 +1110,16 @@ Girl Coloring Dress Up Games
 Girl Dress Up Games Online
 Girlfriend from Hell
 Gladiator Fights
-Glam And Glossy
 Glamour Beach Life
 Glass Factory 2
 Glitch Game
 Global City
 Glove Power
 Glowit Two Players
-Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
-God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1153,6 +1148,7 @@ Grandma Recipe Apple Pie
 Grandma Recipe Nigiri Sushi
 Grandma Recipe Ramen
 Gravity Arena Shooter
+Great White Game
 Greedy Dwarves
 Gridle Game
 Gridpunk
@@ -1193,7 +1189,6 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
-Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1219,13 +1214,13 @@ Hero 3 Flying Robot
 Hero Battle Fantasy Arena
 Hero Castle War Tower Attack
 Hero Survivors
+Herobrine vs Monster School
 Herochero Enemy Slayer
 Heroes of Match 3
 Heroes of Tiny Kingdom
 Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
-Hex Empire
 Hex FRVR
 Hexa Dungeon
 Hexa Sort
@@ -1537,6 +1532,7 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
+Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1679,6 +1675,7 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
+Merge Mine Mobs Attack
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1710,7 +1707,6 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
-Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -1721,7 +1717,7 @@ Mine to the Last
 MineClicker
 MineClicker 2
 MineEnergy fun
-MineMerge
+MineEnergy2
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1817,7 +1813,6 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1868,6 +1863,7 @@ NextDoor Game
 Night City Racing
 Night Rider Game
 Night Watchman game
+Nightfall Drifters
 Ninja Bamboo Assassin
 Ninja Clash Heroes
 Ninja Escape
@@ -1990,6 +1986,7 @@ Park Master Car Parking Jam
 Parking Fury 3D Beach City
 Parking Fury 3D Beach City 2
 Parking Fury 3D Side Hustle
+Parking Jam
 Parking Jam Escape
 Parking Line
 Parking Panic
@@ -2000,7 +1997,6 @@ Parkour Master
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
-Pawggle
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
@@ -2121,6 +2117,7 @@ Progress Knight
 Prom Night Dress Up
 Prune & Milo
 Puckit
+Pudding Monsters
 Punch Hero
 Punchers
 Puppet Fighter 2 Player
@@ -2266,6 +2263,7 @@ Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
 Russian UAZ 4x4 Driving Simulator
 SCAR Game
+SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2282,6 +2280,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2362,7 +2361,6 @@ Slash Royal
 Slash the Rope
 Slasher Online Game
 Slenderman VS Freddy The Fazbear
-Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2558,7 +2556,6 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
-Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2606,6 +2603,7 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
+Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2722,6 +2720,7 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
+TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
@@ -2810,6 +2809,7 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
+Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2897,7 +2897,6 @@ Wood Cutter Saw
 Wood Farmer
 Word Chef
 Word Connect Multiplayer
-Word Crash
 Word Duel
 Word Scramble Family Tales
 Word Search
@@ -2930,6 +2929,7 @@ Yahtzee Online
 Yatzy
 Yellowstone Ranch online game
 Yet Another Merge Game
+You Are Being Watched
 You vs 100 Skibidi Toilets
 Your Chronicle
 Yummy Candy Factory
