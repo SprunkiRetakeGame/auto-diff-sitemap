@@ -40,7 +40,6 @@ A Grim Granny
 A Grim Love Tale
 A Slime Hut
 A Small World Cup
-A Thief s Journey
 ABC Pizza Maker Cooking Game
 AFK HEROES
 AOD Art Of Defense
@@ -57,7 +56,6 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
-Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -213,7 +211,6 @@ Battle Island
 Battle Royale Survival
 Battle Simulator Counter Stickman
 Battle Simulator Prison & Police
-Battle Typer
 Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
@@ -260,7 +257,6 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
-Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -321,7 +317,6 @@ Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
-Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -385,7 +380,6 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
-Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -429,6 +423,7 @@ Castle Wars
 Castle Wars Middle Ages
 Castle Wars Modern
 Castle Wars New Era
+Castles cc Cubic Castles
 Cat Bakery
 Cat House Online Game
 Cat Life Simulator
@@ -512,6 +507,7 @@ Club Tycoon Idle Clicker
 Code Animal
 Coffee Idle
 Coin Clicker
+Coin Picker
 CoinBlock Clicker
 Collect Em All
 College Girl & Boy Makeover
@@ -549,6 +545,7 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
+Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
@@ -646,7 +643,6 @@ Cursed Treasure Level Pack
 Cut Annoying Orange Idle
 Cut The Rope 2
 Cut the Rope
-Cut the Rope Experiments
 Cut the Rope Magic
 Cut the Rope Time Travel
 Cute Army A Cat Story
@@ -681,6 +677,7 @@ Dalgona Game
 Dancing Dreamer
 Dandan Slime
 Dark Academy Fashion Game
+Dark Lands
 Darts Club Online Game
 Darts Idle
 Dash Hero
@@ -760,7 +757,6 @@ Dog Simulator 3D
 Dogeminer
 Dogeminer 2
 Dogfight Game
-Doggo Clicker
 Doggy Tricks
 Domino Battle
 Don t Get the Job
@@ -851,7 +847,6 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
-Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -927,6 +922,7 @@ Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
+Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -958,7 +954,6 @@ Find Me Lost Objects
 Find The Alien
 Find The Difference
 Find the Pieces Online Game
-Find them all
 Finger Fury Flashmaster
 Fire Truck Driving School
 FireBlob
@@ -1110,16 +1105,19 @@ Girl Coloring Dress Up Games
 Girl Dress Up Games Online
 Girlfriend from Hell
 Gladiator Fights
+Glam And Glossy
 Glamour Beach Life
 Glass Factory 2
 Glitch Game
 Global City
 Glove Power
 Glowit Two Players
+Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
+God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1402,7 +1400,6 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1565,7 +1562,6 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
-MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1647,6 +1643,7 @@ Medieval Escape
 Mega Dressup Seasons Best
 Mega Factory
 Mega Fall Ragdoll Simulator
+Mega Makeup Seasons Best
 Mega Ragdoll Sandbox Simulator
 Mega Ramp Car Game Car Stunts
 Mega Ramp Car Stunt
@@ -1675,7 +1672,7 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
-Merge Mine Mobs Attack
+Merge Pickaxe 2
 Merge Pirates Caribbean Battle
 Merge Pool 2048
 Merge Racers
@@ -1707,6 +1704,7 @@ Milky Way Idle
 Millionaire Quiz
 Mind Controller
 Mine Blocks
+Mine Clone
 Mine Keeper
 Mine Loop
 Mine Merge Mania
@@ -1717,7 +1715,6 @@ Mine to the Last
 MineClicker
 MineClicker 2
 MineEnergy fun
-MineEnergy2
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1802,7 +1799,6 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
-Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1813,6 +1809,7 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
+Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1853,6 +1850,7 @@ Nail Art Salon for Girls
 Nano Racers
 Nature Strikes Back
 Necro Sludge
+Neko Sliding Cat Puzzle
 Neon Rider
 Neon Stars
 Netquel
@@ -1977,7 +1975,6 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
-Paper Plane Jam 3d
 Paper Princess Doll Dress Up
 Paper Soccer Online
 Paper io 2
@@ -2000,6 +1997,7 @@ Pass The Bomb
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
+Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
 Penalty Rivals
@@ -2007,7 +2005,6 @@ Penalty Shooters
 Penalty Shooters 2
 Penalty Shooters 3
 Penalty Shootout Multi League
-Penalty Superstar
 Pencil Rush
 Pendulum Master
 Pepi Hospital Learn & Care
@@ -2248,6 +2245,7 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
+Rummy Blast
 Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
@@ -2261,7 +2259,6 @@ Russian Delivery Club Baikal
 Russian Driver 3D
 Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
-Russian UAZ 4x4 Driving Simulator
 SCAR Game
 SNIPER Game
 SPECTRUM browser game
@@ -2290,6 +2287,7 @@ Save the Hostages
 Scandinavian Mahjong
 Scarred Online Game
 Scavenger Hunt Hidden Items
+Scavenger Hunt Multiplayer
 Scoring Champion
 Screw Ball Online Game
 Screw Match Three
@@ -2329,6 +2327,7 @@ Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
+Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2535,6 +2534,7 @@ Stickman Skate 360 Epic City
 Stickman Sword Fighting 3D
 Stickman Tennis 3D
 Stickman That One Level
+Stickman Tower Defense Idle 3D
 Stickman WW2
 Stickman World War
 Stickman Zombie 3D
@@ -2556,6 +2556,7 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
+Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2603,7 +2604,6 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
-Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2717,7 +2717,6 @@ Tictoc Paris Fashion
 Tictoc Summer Fashion
 Tiger Simulator 3D
 TikTok Braided Hairstyles
-TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
 TikTok Urban Outfits
@@ -2809,7 +2808,6 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
-Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2874,6 +2872,7 @@ Western Shooter Battle Gun Duel
 What a Leg
 What s the difference Online
 Wheelie Up
+Wheelstars
 Whooo
 Wild Archer Castle Defense
 Wild Castle TD Grow Empire
@@ -2897,6 +2896,7 @@ Wood Cutter Saw
 Wood Farmer
 Word Chef
 Word Connect Multiplayer
+Word Crash
 Word Duel
 Word Scramble Family Tales
 Word Search
