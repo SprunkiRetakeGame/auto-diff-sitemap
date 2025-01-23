@@ -56,6 +56,7 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
+Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -197,6 +198,7 @@ Basketball Skills
 Basketball Stars
 Basketball Superstars
 Bat Hero Immortal Legend Crime Fighter
+Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -380,6 +382,7 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
+Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -481,6 +484,7 @@ City Idle
 City Takeover
 City of Psychos
 Clanker io
+Clash Of Ages
 Clash of Ages
 Clash of Armor
 Clash of Cakes
@@ -643,6 +647,7 @@ Cursed Treasure Level Pack
 Cut Annoying Orange Idle
 Cut The Rope 2
 Cut the Rope
+Cut the Rope Experiments
 Cut the Rope Magic
 Cut the Rope Time Travel
 Cute Army A Cat Story
@@ -674,10 +679,10 @@ Daily Room Escape
 Daily Word Search
 Dalgona Candy Honeycomb Cookie
 Dalgona Game
+Damn It
 Dancing Dreamer
 Dandan Slime
 Dark Academy Fashion Game
-Dark Lands
 Darts Club Online Game
 Darts Idle
 Dash Hero
@@ -827,6 +832,7 @@ Dwarves Glory
 EI Soul
 Eagle Ride
 Egg Farm
+Egg Folks Multiplayer
 Eggy Car
 El Dorado Lite
 Elemental Gloves Magic Power
@@ -903,6 +909,7 @@ Fairyland Merge & Magic
 Fall Aesthetics
 Fall Ball Clicker
 Fall Beans
+Fall Fashion Style
 Fall Words
 Falling Art Ragdoll Simulator
 Falling Ball
@@ -922,7 +929,6 @@ Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
-Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -984,7 +990,6 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
-Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
@@ -1078,6 +1083,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1117,7 +1123,6 @@ GoBattle io
 Goalkeeper Wiz
 Gobattles 2 Light version
 Goblins Wood
-God of Light
 Goddess Connect
 Gods of Defense
 Gold Digger FRVR
@@ -1146,7 +1151,6 @@ Grandma Recipe Apple Pie
 Grandma Recipe Nigiri Sushi
 Grandma Recipe Ramen
 Gravity Arena Shooter
-Great White Game
 Greedy Dwarves
 Gridle Game
 Gridpunk
@@ -1187,6 +1191,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
+Hardware Tycoon
 Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
@@ -1362,7 +1367,6 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
-Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1400,6 +1404,7 @@ Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1714,7 +1719,6 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
-MineEnergy fun
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1728,7 +1732,6 @@ Mini Car Ball
 Mini Crushers
 Mini Flips
 Mini Giants
-Mini Golf 18
 Mini Golf Club
 Mini Jumps
 Mini Mine
@@ -1799,6 +1802,7 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
+Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1809,7 +1813,6 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1930,6 +1933,7 @@ Offroad Racing
 Offroader V6
 Oh Flip
 Oh My Goth
+Oh So Lucky
 Oil Digging Game
 Oil Painting Jigsaw
 Om Nom Bubbles
@@ -1975,6 +1979,7 @@ Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
+Paper Plane Jam 3d
 Paper Princess Doll Dress Up
 Paper Soccer Online
 Paper io 2
@@ -1997,7 +2002,6 @@ Pass The Bomb
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
-Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
 Penalty Rivals
@@ -2005,6 +2009,7 @@ Penalty Shooters
 Penalty Shooters 2
 Penalty Shooters 3
 Penalty Shootout Multi League
+Penalty Superstar
 Pencil Rush
 Pendulum Master
 Pepi Hospital Learn & Care
@@ -2182,7 +2187,6 @@ Real Drift World
 Real Drive 3D Parking Games
 Real Fishing Simulator
 RealDerby Crash Day
-RealDrive
 Red Bounce Ball 5
 Red Escape
 Red Imposter Clicker
@@ -2246,7 +2250,6 @@ Royal Merge
 Royal Pool Online Game
 Rude Races
 Rummy Blast
-Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2259,8 +2262,8 @@ Russian Delivery Club Baikal
 Russian Driver 3D
 Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
+Russian UAZ 4x4 Driving Simulator
 SCAR Game
-SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2270,14 +2273,12 @@ Sail Adventure
 Same Game
 Samurai Legacy
 Samurai Madness
-Samurai Showdown
 Sand King
 Sand Tetris
 SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2323,7 +2324,6 @@ Shockwaves Game
 Shoe Race
 Shoot & Bounce
 Shoot Gun Clicker
-Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
@@ -2336,6 +2336,7 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
+Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2360,6 +2361,7 @@ Slash Royal
 Slash the Rope
 Slasher Online Game
 Slenderman VS Freddy The Fazbear
+Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2556,7 +2558,6 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
-Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2808,6 +2809,7 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
+Undercroft Warriors
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2842,7 +2844,6 @@ Vortex io
 Voxiom io
 WKSP Rumble
 WODR
-WORM online game
 WW1 Battle Simulator
 Wacky Dungeon
 War Brokers
@@ -2872,7 +2873,6 @@ Western Shooter Battle Gun Duel
 What a Leg
 What s the difference Online
 Wheelie Up
-Wheelstars
 Whooo
 Wild Archer Castle Defense
 Wild Castle TD Grow Empire
@@ -2895,7 +2895,6 @@ Wood Bolts & Nuts Screw Pin Puzzle
 Wood Cutter Saw
 Wood Farmer
 Word Chef
-Word Connect Multiplayer
 Word Crash
 Word Duel
 Word Scramble Family Tales
@@ -2949,6 +2948,7 @@ Z Hunter Game
 ZARCANE A Zombie Apocalypse
 Zena Trial of the Gods
 Zeppelin Assault
+Zom Strike
 Zombie Arena
 Zombie Clash 3D Halloween
 Zombie Derbies 3D
