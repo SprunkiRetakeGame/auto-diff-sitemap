@@ -107,7 +107,6 @@ Ants fruits
 Apes Fighting Gorilla Game
 Apes io
 Appel
-Aqua Cop
 Aquapark Balls Party
 Arcade Empire
 Arcade Rope
@@ -124,7 +123,6 @@ Army Warfare
 Army of Silverite
 Armyclash io
 Arsenal Online shooting game
-Arx Arcana Last Mage Standing
 Ascent Game
 Assassin Hero
 Assault Bots
@@ -151,7 +149,6 @@ BFFs Y2K Fashion
 BLOCOPS
 BORE BLASTERS
 Babel Tower Game
-Baby Adopter
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -231,6 +228,7 @@ Beekeeping Company
 Bees Clicker
 Behold Battle
 Bell Madness
+Berzingue
 Big Euro Truck Driving
 Big FLAPPY Tower Tiny Square
 Big Giant Games Prison Escape Puzzle
@@ -583,7 +581,6 @@ Crazy Descent
 Crazy Drift
 Crazy Farming
 Crazy Flips 3D
-Crazy Galactic Arena Multiplayer
 Crazy Grand Prix
 Crazy Hills
 Crazy MX
@@ -721,6 +718,7 @@ Designville Merge & Design
 Destroy Base
 Detective IQ Brain Games
 Detective Loupe Puzzle
+Devil s Road
 Diamond Drawing by Numbers
 Diamond Dungeon Match 3
 Diamond Rush 2
@@ -777,6 +775,7 @@ Doomsday Shooter
 Doors Paradox
 Dot King
 Downtown 1930s Mafia
+Dr Psycho Hospital Escape
 Drag Master
 Dragon Hunter Game
 Dragon IO
@@ -810,6 +809,7 @@ Drive or Die
 Drone Racing Championship
 Drop & Merge the Numbers
 Drop Ahead Sandbox Madness
+Drop Kick World Cup
 Drunken Boxing
 Drunken Duel 2
 DualForce Idle
@@ -928,6 +928,7 @@ Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
+Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
 Fashion Repair
@@ -1002,7 +1003,6 @@ FoodStars io
 Foono Online Multiplayer
 Foosball 3D
 Foot Chinko
-Foot Chinko Russia 2018
 Football Clicker
 Force Drift Racing Aussie Burnout
 Forebloomed
@@ -1084,6 +1084,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1144,7 +1145,6 @@ Grab and Run
 Graduation Makeup Trends
 Graffiti Time
 Gragyriss
-Grand Stunt Auto
 Grand Stunt Auto 2
 Grandfather Road Chase Realistic Shooter
 Grandma Recipe Apple Pie
@@ -1178,7 +1178,6 @@ Gym Simulator 2024
 Hacking Hero Hacker Clicker
 Hair Salon Beauty Salon Game
 Halloween Chainsaw Massacre
-Halloween Escape
 Halloween Makeup Trends
 Halloween Merge
 Hammer Maste Craft & Destroy
@@ -1192,7 +1191,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
-Harley Learns To Love
+Hardware Tycoon
 Haru Pandas Slide
 Harvest Horizons Idle
 HasteMiner
@@ -1217,14 +1216,13 @@ Hero 3 Flying Robot
 Hero Battle Fantasy Arena
 Hero Castle War Tower Attack
 Hero Survivors
-Herobrine vs Monster School
 Herochero Enemy Slayer
 Heroes of Match 3
 Heroes of Tiny Kingdom
 Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
-Hex Empire
+Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
@@ -1255,7 +1253,6 @@ Home Flip
 Hook & Slice
 Hook Arena
 Hoop World 3D
-Horde Hunters
 Horde Killer
 Horror Bosses Clicker
 Horror Room Scary Hotel Tycoon
@@ -1274,7 +1271,6 @@ HotDog TD
 House Escape Office
 House Flip
 House of Celestina
-House of Celestina Chapter Two
 House of Fashion
 House of Hazards
 Hula Hoop Race
@@ -1367,7 +1363,6 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
-Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1404,8 +1399,8 @@ Jelly Snake
 Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
+Jetpack Joyride
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1432,6 +1427,7 @@ Just Park It 12
 Just Slide Remastered
 K Pop New Year s Concert 2
 KNOCKOUTS Game
+KOGAMA Reach the Flag
 Kaleidoscope Game
 Kamaz Truck Driver
 Kart Wars
@@ -1466,9 +1462,8 @@ Knightin
 Knockout
 Kobolm Rescue
 Kogama 2 Player Tron
+Kogama 4 Players Parkour
 Kogama Adopt Me
-Kogama Christmas Parkour
-Kogama Christmas Runner
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Longest Stairs
@@ -1534,7 +1529,6 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
-Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1567,6 +1561,7 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
+MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1677,6 +1672,7 @@ Merge Hotel
 Merge Knights
 Merge Master Tanks Tank wars
 Merge Mine Idle Clicker
+Merge Mine Mobs Attack
 Merge Pickaxe 2
 Merge Pirates Caribbean Battle
 Merge Pool 2048
@@ -1719,7 +1715,6 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
-MineEnergy fun
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1803,6 +1798,7 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
+Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -2002,6 +1998,7 @@ Pass The Bomb
 Paws & Pals Diner
 Pearls of Atlantis
 Peckin Pixels
+Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
 Penalty Rivals
@@ -2033,7 +2030,6 @@ Pinball Idle
 Ping Pong Chaos
 Pinturillo 2
 Pipe Puzzle
-Pipedown Online Game
 Pipes The Puzzle
 Pirate s Gold
 Pirates the match 3
@@ -2062,6 +2058,7 @@ Planet Clicker
 Planet Clicker 2
 Planet Evolution Idle Clicker
 Planet Life
+Planet Life Idle
 Planet Miner FRVR
 Planet Plummet
 Planet Smash Destruction
@@ -2111,7 +2108,6 @@ Pride Rainbow Fashion
 Princess Homeland
 Princess Lovely Fashion
 Princess Wedding Transformation
-Printing Machine
 Prison Break Architect Tycoon
 Pro Bowling 3D
 Professor Strange
@@ -2250,8 +2246,6 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
-Rummy Blast
-Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2264,8 +2258,8 @@ Russian Delivery Club Baikal
 Russian Driver 3D
 Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
-Russian UAZ 4x4 Driving Simulator
 SCAR Game
+SNIPER Game
 SPECTRUM browser game
 SSSPICY
 STACK it
@@ -2275,12 +2269,14 @@ Sail Adventure
 Same Game
 Samurai Legacy
 Samurai Madness
+Samurai Showdown
 Sand King
 Sand Tetris
 SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2361,7 +2357,7 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
-Slendrina Must Die The Forest
+Slenderman VS Freddy The Fazbear
 Slendrina Must Die The House
 Slice Arena
 Slice Master
@@ -2434,6 +2430,7 @@ Sort n Hold 3D
 Soul Grinder
 Soul Not Found
 Space Alien Invaders
+Space Cats Battle Arena
 Space City Build Your Empire
 Space Colony
 Space Company
@@ -2550,7 +2547,6 @@ Stone Idle
 Store Manager Game
 Stormy Kicker
 Strawberella
-Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
 Street Life Game
@@ -2593,6 +2589,7 @@ Super Sucker 3D
 Super Thief Auto
 Super Thrower
 Super Tic Tac Toe
+SuperHot
 SuperTrucks Offroad Racing
 Superhero Race
 Supermarket Empire
@@ -2693,7 +2690,6 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
-The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2721,7 +2717,6 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
-TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
@@ -2805,11 +2800,13 @@ UFO Jigsaw Puzzle
 UVSU
 Ultimate Flying Car
 Ultimate Flying Car 2
+Ultimate Night Racing
 Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
 Undercroft Warriors
+Underwater Adventures Match 3
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
 Unicorn Dress Up Coloring Book
@@ -2830,7 +2827,6 @@ Vegas Clash 3D
 Vehicle Masters
 Video Studio Escape
 Vikings An Archer s Journey
-Vikings Puzzle Quest
 Village Car Stunts
 Village of Heroes Roguelike TD
 Villain Simulator
@@ -2844,16 +2840,19 @@ Vortex io
 Voxiom io
 WKSP Rumble
 WODR
+WORM online game
 WW1 Battle Simulator
 Wacky Dungeon
 War Brokers
 War Lands
 War Nations io
 War Sea Game
+War of Mine
 War of Tanks
 WarCall io
 Warlord Fantasy RPG
 Warzone Armor
+Water Jam
 Water Pool Heroes io
 Water Wars
 Watermelon Balls
@@ -2912,6 +2911,7 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
+WorldZ
 Worm Hunt
 Worms Zone
 Worms io
