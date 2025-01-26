@@ -56,7 +56,6 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
-Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -123,6 +122,7 @@ Army Warfare
 Army of Silverite
 Armyclash io
 Arsenal Online shooting game
+Arx Arcana Last Mage Standing
 Ascent Game
 Assassin Hero
 Assault Bots
@@ -196,7 +196,6 @@ Basketball Skills
 Basketball Stars
 Basketball Superstars
 Bat Hero Immortal Legend Crime Fighter
-Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -211,6 +210,7 @@ Battle Island
 Battle Royale Survival
 Battle Simulator Counter Stickman
 Battle Simulator Prison & Police
+Battle Typer
 Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
@@ -258,7 +258,6 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
-Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -382,7 +381,6 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
-Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -417,6 +415,7 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
+Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -718,7 +717,6 @@ Designville Merge & Design
 Destroy Base
 Detective IQ Brain Games
 Detective Loupe Puzzle
-Devil s Road
 Diamond Drawing by Numbers
 Diamond Dungeon Match 3
 Diamond Rush 2
@@ -775,7 +773,6 @@ Doomsday Shooter
 Doors Paradox
 Dot King
 Downtown 1930s Mafia
-Dr Psycho Hospital Escape
 Drag Master
 Dragon Hunter Game
 Dragon IO
@@ -840,7 +837,6 @@ Elemental Merge
 Elevator Room Escape
 Eliatopia
 Elite Sniper
-Eliza Mall Mania
 Ellie Christmas Makeup
 Elsa & Anna s Icy Dress Up
 Elves Clan Tricky Adventures
@@ -853,6 +849,7 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
+Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -991,18 +988,17 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
-Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
 Flying Road
 Flywheel Incremental
 Food Truck Chef™ A Fun Cooking Game
-Food Tycoon FRVR
 FoodStars io
 Foono Online Multiplayer
 Foosball 3D
 Foot Chinko
+Foot Chinko Russia 2018
 Football Clicker
 Force Drift Racing Aussie Burnout
 Forebloomed
@@ -1084,7 +1080,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1145,6 +1140,7 @@ Grab and Run
 Graduation Makeup Trends
 Graffiti Time
 Gragyriss
+Grand Stunt Auto
 Grand Stunt Auto 2
 Grandfather Road Chase Realistic Shooter
 Grandma Recipe Apple Pie
@@ -1191,7 +1187,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
-Hardware Tycoon
+Harley Learns To Love
 Haru Pandas Slide
 Harvest Horizons Idle
 HasteMiner
@@ -1216,12 +1212,14 @@ Hero 3 Flying Robot
 Hero Battle Fantasy Arena
 Hero Castle War Tower Attack
 Hero Survivors
+Herobrine vs Monster School
 Herochero Enemy Slayer
 Heroes of Match 3
 Heroes of Tiny Kingdom
 Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
+Hex Empire
 Hex FRVR
 Hexa Dungeon
 Hexa Sort
@@ -1271,6 +1269,7 @@ HotDog TD
 House Escape Office
 House Flip
 House of Celestina
+House of Celestina Chapter Two
 House of Fashion
 House of Hazards
 Hula Hoop Race
@@ -1363,6 +1362,7 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
+Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1372,7 +1372,6 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
-Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1401,6 +1400,7 @@ Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1464,6 +1464,7 @@ Kobolm Rescue
 Kogama 2 Player Tron
 Kogama 4 Players Parkour
 Kogama Adopt Me
+Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Longest Stairs
@@ -1529,6 +1530,7 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
+Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1715,6 +1717,7 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
+MineEnergy fun
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1798,7 +1801,6 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
-Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1809,7 +1811,6 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1880,11 +1881,9 @@ Noob Island Escape
 Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
-Noob Parkour 3D
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
-Noob Zombie Prison Escape
 Noob s Chicken Farm Tycoon
 Noob s Farm Escape
 Noob trolls Pro
@@ -2031,7 +2030,6 @@ Ping Pong Chaos
 Pinturillo 2
 Pipe Puzzle
 Pipes The Puzzle
-Pirate s Gold
 Pirates the match 3
 Pit Stop Helper
 Pixel Apocalypse Infection Begin
@@ -2258,6 +2256,7 @@ Russian Delivery Club Baikal
 Russian Driver 3D
 Russian Kamaz Truck Driver
 Russian Kamaz Truck Driver 2
+Russian UAZ 4x4 Driving Simulator
 SCAR Game
 SNIPER Game
 SPECTRUM browser game
@@ -2276,7 +2275,6 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2325,6 +2323,7 @@ Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
+Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2333,7 +2332,6 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
-Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2396,6 +2394,7 @@ Sniper Master
 Sniper Mission
 Sniper Shooting
 Sniper Shot Bullet Time
+Sniper Strike
 Snoring Elephant Puzzle
 Snow Farm Happy New Year
 Snow Plow Truck Game
@@ -2547,6 +2546,7 @@ Stone Idle
 Store Manager Game
 Stormy Kicker
 Strawberella
+Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
 Street Life Game
@@ -2690,6 +2690,7 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
+The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2717,6 +2718,7 @@ TikTok Braided Hairstyles
 TikTok Floral Trends
 TikTok Street Style
 TikTok Trends Colored Denim
+TikTok Urban Outfits
 Tile Craft 3D
 Tile Dreams Relaxing Puzzle
 Tile Farm Story Matching Game
@@ -2840,7 +2842,6 @@ Vortex io
 Voxiom io
 WKSP Rumble
 WODR
-WORM online game
 WW1 Battle Simulator
 Wacky Dungeon
 War Brokers
@@ -2911,7 +2912,6 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
-WorldZ
 Worm Hunt
 Worms Zone
 Worms io
