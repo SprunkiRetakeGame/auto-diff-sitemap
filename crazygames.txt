@@ -211,6 +211,7 @@ Battle Island
 Battle Royale Survival
 Battle Simulator Counter Stickman
 Battle Simulator Prison & Police
+Battle Typer
 Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
@@ -258,7 +259,6 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
-Blaster Pranks
 Blitz Tanks
 Blob Opera
 Block Blast 3D
@@ -315,6 +315,7 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
+Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
@@ -327,7 +328,6 @@ Brawl Hero
 Break it Brick Breaker
 BreakShoot idle
 Breaking Fall Epic Bone Blast
-Breaking the Silent Lies
 Brick Bash Saga
 Bridge Race
 Bro Royale
@@ -343,7 +343,6 @@ Bubble Tower 3D
 Bubble Woods
 Bubbly Lab
 Bucket Crusher
-Buggy Kart Racing
 Build & Survive
 Build And Run
 Build House Simulator
@@ -382,7 +381,6 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
-Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -408,7 +406,6 @@ Car Tuning Simulator
 CarBall io
 Card Cafe
 Card Shuffle Sort
-Cardboard House
 Cards Keeper
 Cargo Truck Parking
 Carnage Battle Arena
@@ -442,7 +439,6 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
-Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -566,6 +562,7 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
+Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -1002,7 +999,6 @@ FoodStars io
 Foono Online Multiplayer
 Foosball 3D
 Foot Chinko
-Foot Chinko Russia 2018
 Football Clicker
 Force Drift Racing Aussie Burnout
 Forebloomed
@@ -1084,7 +1080,6 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
-Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1112,6 +1107,7 @@ Girl Coloring Dress Up Games
 Girl Dress Up Games Online
 Girlfriend from Hell
 Gladiator Fights
+Glam And Glossy
 Glamour Beach Life
 Glass Factory 2
 Glitch Game
@@ -1120,7 +1116,6 @@ Glove Power
 Glowit Two Players
 GoBattle io
 Goalkeeper Wiz
-Gobattles 2 Light version
 Goblins Wood
 Goddess Connect
 Gods of Defense
@@ -1364,6 +1359,7 @@ Idle Zoo
 Immortal Taoists
 Impossible Date
 Impossible Mega Ramp Car Stunt
+Imposter Battle Royale
 Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
@@ -1373,6 +1369,7 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
+Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1401,7 +1398,6 @@ Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1519,6 +1515,7 @@ Lethal Sniper 3D Army Soldier
 Level Eaten
 Lhama Clicker
 Life in the Static
+Light Academia Fashion
 Light Line
 Light The Lamp
 Lime Playground Sandbox
@@ -1532,7 +1529,6 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
-Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1565,7 +1561,6 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
-MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1718,6 +1713,7 @@ Mine to the Last
 MineClicker
 MineClicker 2
 MineEnergy fun
+MineTap Merge Clicker
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1813,6 +1809,7 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
+Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -2164,6 +2161,7 @@ Ragdoll Fight
 Ragdoll Soccer 2 players
 Ragdoll Throw Challenge
 Rage Fruits Tower Defense
+Raid Heroes Total War
 Rainbow Snake
 Rally Point
 Rally Point 2
@@ -2246,7 +2244,7 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
-Rummy Blast
+Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2277,6 +2275,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2284,7 +2283,6 @@ Save The Worm Draw Puzzle
 Save the Capybara
 Save the Hostages
 Scandinavian Mahjong
-Scarred Online Game
 Scavenger Hunt Hidden Items
 Scavenger Hunt Multiplayer
 Scoring Champion
@@ -2326,6 +2324,7 @@ Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
+Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2358,7 +2357,6 @@ Slash Royal
 Slash the Rope
 Slasher Online Game
 Slenderman VS Freddy The Fazbear
-Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2396,7 +2394,6 @@ Sniper Master
 Sniper Mission
 Sniper Shooting
 Sniper Shot Bullet Time
-Sniper Strike
 Snoring Elephant Puzzle
 Snow Farm Happy New Year
 Snow Plow Truck Game
@@ -2548,6 +2545,7 @@ Stone Idle
 Store Manager Game
 Stormy Kicker
 Strawberella
+Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
 Street Life Game
@@ -2555,7 +2553,6 @@ Street Race Fury
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
-Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2624,6 +2621,7 @@ Switch Wheel Race Master
 Swop Shoot
 Sword Adventure Idle
 Sword merging simulator
+Swords & Souls
 Syder Hyper Drive
 TRACE Game
 TV Invasion
@@ -2809,6 +2807,7 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
+Undercroft Warriors
 Underwater Adventures Match 3
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
@@ -2897,6 +2896,7 @@ Wood Cutter Saw
 Wood Farmer
 Word Chef
 Word Connect Multiplayer
+Word Crash
 Word Duel
 Word Scramble Family Tales
 Word Search
