@@ -56,6 +56,7 @@ Advent NEON
 Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
+Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -160,7 +161,6 @@ Bacteria game
 Bad Dolls
 Bad Egg
 Bad Soccer Manager
-Badland Game
 Bag Defense
 Ball Blast
 Ball Blaster
@@ -211,7 +211,6 @@ Battle Island
 Battle Royale Survival
 Battle Simulator Counter Stickman
 Battle Simulator Prison & Police
-Battle Typer
 Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
@@ -315,7 +314,6 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
-Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
@@ -328,6 +326,7 @@ Brawl Hero
 Break it Brick Breaker
 BreakShoot idle
 Breaking Fall Epic Bone Blast
+Breaking the Silent Lies
 Brick Bash Saga
 Bridge Race
 Bro Royale
@@ -343,6 +342,7 @@ Bubble Tower 3D
 Bubble Woods
 Bubbly Lab
 Bucket Crusher
+Buggy Kart Racing
 Build & Survive
 Build And Run
 Build House Simulator
@@ -365,7 +365,6 @@ Burnin Rubber Multiplayer
 Burnout Drift
 Burnout Drift 2 Hilltop
 Burnout Drift 3 Seaport Max
-Burnout Drift Online
 Burnout Racers
 Bus Driving Simulator
 Bus and Subway Runner
@@ -381,6 +380,7 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
+Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -406,6 +406,7 @@ Car Tuning Simulator
 CarBall io
 Card Cafe
 Card Shuffle Sort
+Cardboard House
 Cards Keeper
 Cargo Truck Parking
 Carnage Battle Arena
@@ -415,6 +416,7 @@ Carrom Masti Challenges
 Cars VS Skibidi Toilet
 Cartoon Hot Racer 3D
 Cartoon Moto Stunt
+Carving Madness
 Casino Robbery Game
 Castle Craft
 Castle Defender Saga
@@ -562,7 +564,6 @@ Copter io
 Cornfield
 Cosmic Miners
 Cougar Simulator Big Cats
-Country Hopper
 Country Life Meadows
 Cow Defender
 Craft Drill Clicker
@@ -837,7 +838,6 @@ Elemental Merge
 Elevator Room Escape
 Eliatopia
 Elite Sniper
-Eliza Mall Mania
 Ellie Christmas Makeup
 Elsa & Anna s Icy Dress Up
 Elves Clan Tricky Adventures
@@ -850,14 +850,12 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
-Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
 Empire Clicker
 End of War
 Endacopia
-Endless Car Chase 2
 Endless Hot Pursuit
 Endless Siege
 Endless Siege 2
@@ -925,7 +923,6 @@ Farm Merge Valley
 Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
-Fashion Box Christmas Diva
 Fashion Box Glam Diva
 Fashion Dress Up Challenge
 Fashion Famous Online Game
@@ -979,7 +976,6 @@ Fitness Club 3D
 Fiveheads Soccer
 Fix The hoof
 Flag Defender
-Flags Quiz
 Flakmeister
 Flames & Fortune
 Flappy Dunk
@@ -999,6 +995,7 @@ FoodStars io
 Foono Online Multiplayer
 Foosball 3D
 Foot Chinko
+Foot Chinko Russia 2018
 Football Clicker
 Force Drift Racing Aussie Burnout
 Forebloomed
@@ -1080,6 +1077,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1114,6 +1112,7 @@ Glitch Game
 Global City
 Glove Power
 Glowit Two Players
+Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Goblins Wood
@@ -1369,7 +1368,6 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
-Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1392,12 +1390,12 @@ Javelin Fighting
 Jeffs Revenge
 Jelly Bear s Farm
 Jelly Restaurant
-Jelly Snake
 Jet Boat Racing
 Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1465,7 +1463,6 @@ Kogama Christmas Parkour
 Kogama Dungeon Run
 Kogama Lego Star Wars
 Kogama Longest Stairs
-Kogama Mountain Climber
 Kogama Parkour Professional
 Kogama ParkourWood
 Kogama Roller Coaster World
@@ -1479,6 +1476,7 @@ Kour io
 Krakax com
 Krampus Game
 Krash Karts
+Krazy Kitchen
 Krew io
 Kuzbass Horror
 Land Ho
@@ -1512,10 +1510,10 @@ Left 4 Dead
 Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Lethal Sniper 3D Army Soldier
+Letters Match
 Level Eaten
 Lhama Clicker
 Life in the Static
-Light Academia Fashion
 Light Line
 Light The Lamp
 Lime Playground Sandbox
@@ -1719,6 +1717,7 @@ Miner Cat 4
 Miner Madness Tycoon
 Miner Tycoon Big Dynamite
 Miners Adventure
+Minesweeper Duel
 Mini Blocks
 Mini Caps Arena
 Mini Caps Bombs
@@ -1798,7 +1797,6 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
-Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1809,7 +1807,6 @@ Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
 Mr Stretch and the Stolen Fortune
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1991,6 +1988,7 @@ Parking Race Drift Master
 Parkour First Person
 Parkour GO
 Parkour Master
+Parkour Master 2
 Parrot Simulator
 Particle Clicker
 Pass The Bomb
@@ -2113,6 +2111,7 @@ Progress Knight
 Prom Night Dress Up
 Prune & Milo
 Puckit
+Pudding Monsters
 Punch Hero
 Punchers
 Puppet Fighter 2 Player
@@ -2244,7 +2243,7 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
-Run Crazy Prison Break 3D
+Rummy Blast
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2324,7 +2323,6 @@ Shoot Your Nightmare The Beginning
 Shoot and Drive
 ShooterZ
 Shootup io
-Shopaholic Black Friday
 Shopping Sort
 Short Life
 Short Life 2
@@ -2333,6 +2331,7 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
+Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2550,6 +2549,7 @@ Street Fighter Simulator
 Street Freekick 3D
 Street Life Game
 Street Race Fury
+Street Racer 2
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
@@ -2621,7 +2621,6 @@ Switch Wheel Race Master
 Swop Shoot
 Sword Adventure Idle
 Sword merging simulator
-Swords & Souls
 Syder Hyper Drive
 TRACE Game
 TV Invasion
@@ -2842,7 +2841,6 @@ Vortex io
 Voxiom io
 WKSP Rumble
 WODR
-WORM online game
 WW1 Battle Simulator
 Wacky Dungeon
 War Brokers
@@ -2913,6 +2911,7 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
+WorldZ
 Worm Hunt
 Worms Zone
 Worms io
@@ -2928,7 +2927,9 @@ Xtreme Rivals Car Racing
 Yahtzee Online
 Yatzy
 Yellowstone Ranch online game
+Yes or No Challenge
 Yet Another Merge Game
+You Are Being Watched
 You vs 100 Skibidi Toilets
 Your Chronicle
 Yummy Candy Factory
@@ -2951,7 +2952,6 @@ Zeppelin Assault
 Zom Strike
 Zombie Arena
 Zombie Clash 3D Halloween
-Zombie Derbies 3D
 Zombie Drive Survivor
 Zombie Hunter
 Zombie Hunters Online
