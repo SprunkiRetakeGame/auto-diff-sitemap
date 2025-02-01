@@ -2,6 +2,7 @@
 10 Minutes Till Dawn
 10 More Bullets
 10 minute mage
+100 Doors
 100 Doors Challenge
 100 Doors Puzzle Box
 100 Meters Race
@@ -142,6 +143,7 @@ Ave Castle
 Axy Snake 3D
 BASKET BLITZ
 BFF Math Class
+BFFs Black Friday Shopping
 BFFs Golden Hour
 BFFs K Pop Fangirls
 BFFs Luxury Loungewear
@@ -149,6 +151,7 @@ BFFs Y2K Fashion
 BLOCOPS
 BORE BLASTERS
 Babel Tower Game
+Baby Adopter
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -196,7 +199,6 @@ Basketball Skills
 Basketball Stars
 Basketball Superstars
 Bat Hero Immortal Legend Crime Fighter
-Bathroom Escape
 Battalion Commander
 Battalion Commander 1917
 Battalion Commander 2
@@ -211,6 +213,7 @@ Battle Island
 Battle Royale Survival
 Battle Simulator Counter Stickman
 Battle Simulator Prison & Police
+Battle Typer
 Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
@@ -287,7 +290,6 @@ Blocky Trials
 Blogger Clicker
 Bloom Sort
 Bloxd io
-Blubble io
 Boat Attack
 Bobb s World
 BodyCamera Shooter
@@ -314,11 +316,11 @@ Bouncy Egg
 Bouncy Farm
 Bouncy Motors
 Bouncy Pickaxe
-Bowlin Go FRVR
 Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
+Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -431,6 +433,7 @@ Cat Lovescapes
 Cat Mario
 Cat Sorter Puzzle
 Cat Warrior Parkour
+Cat and Granny
 Catch Tiles Piano Game
 Categories Online Word Game
 Cats and Bees
@@ -874,7 +877,6 @@ Escape Series
 Escape from Zombies
 Escape or Die
 Escape or Die 2
-Escape or Die 3
 Escape or Die 4
 Escape the Dog
 Eternal Road
@@ -985,6 +987,7 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
+Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
@@ -1103,6 +1106,7 @@ Giant Rush Arena
 Giant Sushi
 Girl Coloring Dress Up Games
 Girl Dress Up Games Online
+Girlfriend from Hell
 Gladiator Fights
 Glam And Glossy
 Glamour Beach Life
@@ -1111,6 +1115,7 @@ Glitch Game
 Global City
 Glove Power
 Glowit Two Players
+Go Kart Racing 3D
 GoBattle io
 Goalkeeper Wiz
 Goblins Wood
@@ -1214,7 +1219,6 @@ Heroes of Tiny Kingdom
 Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
-Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
@@ -1365,6 +1369,7 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
+Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1382,6 +1387,7 @@ Isometric Escape 2
 Iza s Supermarket
 Jailbreak Hide or Attack
 Jamir
+Jamjam
 Janissary Battles
 Javelin Fighting
 Jeffs Revenge
@@ -1393,7 +1399,6 @@ Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1433,7 +1438,6 @@ Killer Whale Online
 King Survivors
 King io World War
 King s Landing Arcade Idle
-Kingdom Rush
 Kingdom of Pixels
 Kingmaker Academy Warrior s Duels
 Kings Clash
@@ -1457,11 +1461,13 @@ Kobolm Rescue
 Kogama 2 Player Tron
 Kogama 4 Players Parkour
 Kogama Adopt Me
+Kogama Big Adventure
+Kogama Christmas Parkour
 Kogama Crazy Coasters
 Kogama Dungeon Run
 Kogama Escape from Prison
 Kogama Hallow Special trick or treat
-Kogama Longest Stairs
+Kogama Lego Star Wars
 Kogama Minecraft
 Kogama Parkour Professional
 Kogama Roller Coaster World
@@ -1546,7 +1552,6 @@ Love Archer
 Love Clicker Valentine s Day
 Love Colors
 Love In Style
-Lucky Life
 Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
@@ -1558,7 +1563,6 @@ Lunar Knight
 Luxury Inc Game
 MATH EXPRESSions
 MERGING GEARS
-MIDNIGHT Remastered
 MMA Manager 2
 MR RACER
 MX OffRoad Master
@@ -1764,7 +1768,6 @@ Monster Cars Ultimate Simulator
 Monster Clearer
 Monster Defense
 Monster Duel
-Monster Girl Dress Up & Makeup
 Monster Impact
 Monster Kart
 Monster Life
@@ -1798,7 +1801,6 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
-Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1808,7 +1810,6 @@ Move the rubber bands Logic puzzle
 Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
-Mr Stretch and the Stolen Fortune
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1882,7 +1883,6 @@ Noob Miner Escape From Prison
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
-Noob Zombie Prison Escape
 Noob s Chicken Farm Tycoon
 Noob s Farm Escape
 Noob trolls Pro
@@ -2005,6 +2005,7 @@ Penalty Shooters
 Penalty Shooters 2
 Penalty Shooters 3
 Penalty Shootout Multi League
+Penalty Superstar
 Pencil Rush
 Pendulum Master
 Pepi Hospital Learn & Care
@@ -2112,6 +2113,7 @@ Progress Knight
 Prom Night Dress Up
 Prune & Milo
 Puckit
+Pudding Monsters
 Punch Hero
 Punchers
 Puppet Fighter 2 Player
@@ -2181,6 +2183,7 @@ Real Drift World
 Real Drive 3D Parking Games
 Real Fishing Simulator
 RealDerby Crash Day
+RealDrive
 Red Bounce Ball 5
 Red Escape
 Red Imposter Clicker
@@ -2243,6 +2246,8 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
+Rummy Blast
+Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2273,7 +2278,6 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2600,7 +2604,6 @@ Supply Chain Idle
 Supreme Bomb Tag
 Sure Shot
 Survev io
-Survival Craft Adventure
 Survival Hero Merge RPG
 Survival Land
 Survival Runners
@@ -2621,6 +2624,7 @@ Switch Wheel Race Master
 Swop Shoot
 Sword Adventure Idle
 Sword merging simulator
+Swords & Souls
 Syder Hyper Drive
 TRACE Game
 TV Invasion
@@ -2689,7 +2693,6 @@ The Prison Maze
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
-The Spear Stickman
 The Speedy Golf
 The Trendy Mermaid
 The White Room
@@ -2704,7 +2707,6 @@ Thief Puzzle
 Think to Escape
 Think to Escape 2
 Think to Escape 3
-Think to Escape School
 Three Goblets
 Tic Tac Toe Online
 Tictoc Catwalk Fashion
@@ -2794,6 +2796,7 @@ Turbo Dismounting
 Turbo Stars Rival Racing
 Twirl Game
 Twist Hit
+Two Timin Towers
 Tyran io
 Tzared
 UFO Jigsaw Puzzle
@@ -2805,7 +2808,6 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
-Undercroft Warriors
 Underwater Adventures Match 3
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
@@ -2861,6 +2863,7 @@ We Become What We Behold
 We Not Survive
 Weapon Tester
 Weapons Journey
+Weapons and Ragdolls
 Weaponsmith Idle
 Web Slinging Race
 Wedding Coloring Dress Up Game
@@ -2893,7 +2896,6 @@ Wood Bolts & Nuts Screw Pin Puzzle
 Wood Cutter Saw
 Wood Farmer
 Word Chef
-Word Connect Multiplayer
 Word Crash
 Word Duel
 Word Scramble Family Tales
@@ -2911,7 +2913,6 @@ World Geography Flags and Capitals
 World Survivors
 World Z Defense Zombie Defense
 World of Stickman Classic RTS
-WorldZ
 Worm Hunt
 Worms Zone
 Worms io
@@ -2927,7 +2928,6 @@ Xtreme Rivals Car Racing
 Yahtzee Online
 Yatzy
 Yellowstone Ranch online game
-Yes or No Challenge
 Yet Another Merge Game
 You Are Being Watched
 You vs 100 Skibidi Toilets
