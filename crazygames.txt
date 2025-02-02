@@ -2,7 +2,6 @@
 10 Minutes Till Dawn
 10 More Bullets
 10 minute mage
-100 Doors
 100 Doors Challenge
 100 Doors Puzzle Box
 100 Meters Race
@@ -151,7 +150,6 @@ BFFs Y2K Fashion
 BLOCOPS
 BORE BLASTERS
 Babel Tower Game
-Baby Adopter
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -320,7 +318,6 @@ Bowling Champion online
 Box It Up
 Boxing Random
 Boxing Stars
-Braains io
 Brain Teaser Online Game
 Braindom 2
 Brat Girl Summer
@@ -383,6 +380,7 @@ Call of Tanks
 Calm Them Down
 Candy Bubble
 Candy Clicker 2
+Candy Hair Salon Doll Games
 Candy Riddles
 Cannon Balls 3D
 Cannon Pirates Multiplayer
@@ -408,7 +406,6 @@ Car Tuning Simulator
 CarBall io
 Card Cafe
 Card Shuffle Sort
-Cardboard House
 Cards Keeper
 Cargo Truck Parking
 Carnage Battle Arena
@@ -443,6 +440,7 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
+Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -502,7 +500,6 @@ CleanUp io
 Click Click Clicker
 Click n Heroes
 Clicker Heroes
-Clicker Heroes Escape
 Clicker Knights vs Dragons
 Clickermon
 Clock Clicker
@@ -877,6 +874,7 @@ Escape Series
 Escape from Zombies
 Escape or Die
 Escape or Die 2
+Escape or Die 3
 Escape or Die 4
 Escape the Dog
 Eternal Road
@@ -987,7 +985,6 @@ Flip Goal
 Flip The Box
 Flipped Chain Dunk
 Flipper Dunk 3D
-Flow Mania
 Fly for Fly
 Flying Bat Robot Car Transform Game
 Flying Car Simulator
@@ -1106,7 +1103,6 @@ Giant Rush Arena
 Giant Sushi
 Girl Coloring Dress Up Games
 Girl Dress Up Games Online
-Girlfriend from Hell
 Gladiator Fights
 Glam And Glossy
 Glamour Beach Life
@@ -1369,7 +1365,6 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
-Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1399,6 +1394,7 @@ Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
+Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1438,6 +1434,7 @@ Killer Whale Online
 King Survivors
 King io World War
 King s Landing Arcade Idle
+Kingdom Rush
 Kingdom of Pixels
 Kingmaker Academy Warrior s Duels
 Kings Clash
@@ -1468,8 +1465,10 @@ Kogama Dungeon Run
 Kogama Escape from Prison
 Kogama Hallow Special trick or treat
 Kogama Lego Star Wars
+Kogama Longest Stairs
 Kogama Minecraft
 Kogama Parkour Professional
+Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama School Is Just Super
 Kogama Sonic Dash 2
@@ -1552,6 +1551,7 @@ Love Archer
 Love Clicker Valentine s Day
 Love Colors
 Love In Style
+Lucky Life
 Ludo
 Ludo Club Fun Dice Game
 Ludo Hero
@@ -1714,8 +1714,6 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
-MineEnergy fun
-MineTap Merge Clicker
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1801,6 +1799,7 @@ Moto X3M Winter
 MotoCross Riders
 MotoGP Motocross Race
 Motocross Arena Game
+Motocross Dirt Bike Race Games
 Motor Wars 2
 Mountain Jigsaw Puzzle
 Mountain Operation
@@ -1810,6 +1809,7 @@ Move the rubber bands Logic puzzle
 Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
+Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1872,7 +1872,6 @@ Ninja Rian
 No Crossroads
 No Pain No Gain Ragdoll Sandbox
 Nonogram
-Nonogram FRVR
 Noob Archer vs Stickman Zombie
 Noob Basketball Clicker
 Noob Gigachad Parkour Tricks Challenge
@@ -1969,7 +1968,6 @@ Pancake Maker
 Panda Simulator 3D
 Panther Family Simulator 3D
 Papa Cherry Saga
-Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
@@ -2278,6 +2276,7 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
+SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2335,7 +2334,6 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
-Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2359,6 +2357,7 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
+Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2396,7 +2395,6 @@ Sniper Master
 Sniper Mission
 Sniper Shooting
 Sniper Shot Bullet Time
-Sniper Strike
 Snoring Elephant Puzzle
 Snow Farm Happy New Year
 Snow Plow Truck Game
@@ -2557,6 +2555,7 @@ Street Racer 2
 Street Racers Nitro Extreme
 Striker Dummies
 Struckd 3D Game Creator
+Stunt Mania 3D
 Stunt Paradise
 Stupid Zombies
 Subway Clash
@@ -2624,7 +2623,6 @@ Switch Wheel Race Master
 Swop Shoot
 Sword Adventure Idle
 Sword merging simulator
-Swords & Souls
 Syder Hyper Drive
 TRACE Game
 TV Invasion
@@ -2707,6 +2705,7 @@ Thief Puzzle
 Think to Escape
 Think to Escape 2
 Think to Escape 3
+Think to Escape School
 Three Goblets
 Tic Tac Toe Online
 Tictoc Catwalk Fashion
@@ -2765,6 +2764,7 @@ Train Taxi
 Transporter Hot Pursuit
 Trap Craft
 Trap the Cat 2D
+Trappersquares io
 Travel Tile
 Travel With Me ASMR Edition
 Treasure Hunt Idle
@@ -2883,7 +2883,6 @@ Wildlife Haven Sandbox Safari
 Wings io
 Winter Clash 3D
 Winter Falling Price of Life
-Winterella
 Wire Beat
 Witchy Sacrifices
 Wizard Masters
@@ -2896,6 +2895,7 @@ Wood Bolts & Nuts Screw Pin Puzzle
 Wood Cutter Saw
 Wood Farmer
 Word Chef
+Word Connect Multiplayer
 Word Crash
 Word Duel
 Word Scramble Family Tales
