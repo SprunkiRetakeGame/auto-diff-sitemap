@@ -57,7 +57,6 @@ Adventure Boy Jailbreak
 Adventure Island 2D Online Game
 Adventure Miner
 Adventures of Flig
-Against Zombies Game
 Agar io
 Age Of Arms
 Age of Tanks Warriors TD War
@@ -150,6 +149,7 @@ BFFs Y2K Fashion
 BLOCOPS
 BORE BLASTERS
 Babel Tower Game
+Baby Adopter
 Baby Chicco Adventures
 Baby Dress Up
 Back To School Uniforms Edition
@@ -288,6 +288,7 @@ Blocky Trials
 Blogger Clicker
 Bloom Sort
 Bloxd io
+Blubble io
 Boat Attack
 Bobb s World
 BodyCamera Shooter
@@ -326,7 +327,6 @@ Brawl Hero
 Break it Brick Breaker
 BreakShoot idle
 Breaking Fall Epic Bone Blast
-Breaking the Silent Lies
 Brick Bash Saga
 Bridge Race
 Bro Royale
@@ -406,6 +406,7 @@ Car Tuning Simulator
 CarBall io
 Card Cafe
 Card Shuffle Sort
+Cardboard House
 Cards Keeper
 Cargo Truck Parking
 Carnage Battle Arena
@@ -440,7 +441,6 @@ Cavern from the fog
 Cell to Singularity Mesozoic Valley
 Celldome
 Cemetery Warrior 4
-Chainsaw Dance
 Champions of The Void Paladin
 Checkers Deluxe Edition
 Checkers Free
@@ -500,6 +500,7 @@ CleanUp io
 Click Click Clicker
 Click n Heroes
 Clicker Heroes
+Clicker Heroes Escape
 Clicker Knights vs Dragons
 Clickermon
 Clock Clicker
@@ -546,6 +547,7 @@ Computer Repair Game
 Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
+Conq io
 Console Idle
 Construct a Bridge
 Construction Idle
@@ -849,6 +851,7 @@ Emily s Hotel Solitaire
 Emoji Ball Blast
 Emoji Clickers
 Emoji Guess Master
+Emoji Hunt
 Emoji Puzzle
 Emperors on Ice
 Empire City
@@ -1183,7 +1186,7 @@ Happy Cakes
 Happy Farm The Crop
 Happy Town Game
 Hard Game 2
-Harley Learns To Love
+Hardware Tycoon
 Haru Pandas Slide
 Harvest Horizons Idle
 HasteMiner
@@ -1215,6 +1218,7 @@ Heroes of Tiny Kingdom
 Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
+Hex FRVR
 Hexa Dungeon
 Hexa Sort
 Hexa blast game
@@ -1365,6 +1369,7 @@ Infected Days
 Infection Z
 Infernal Throne
 Inferno Drift
+Infinite Heroes
 Infinite Launch
 Infinity Toower
 Interior Designer Unpacking House
@@ -1394,7 +1399,6 @@ Jet Fighter Airplane Racing
 Jet Rush
 Jetpack Joyride
 Jetpack Jump
-Jetski Boat Racing Boat Games
 Jewel Academy
 Jewel Hunter
 Jewel Monsters
@@ -1421,7 +1425,6 @@ Just Park It 12
 Just Slide Remastered
 K Pop New Year s Concert 2
 KNOCKOUTS Game
-KOGAMA Reach the Flag
 Kaleidoscope Game
 Kamaz Truck Driver
 Kart Wars
@@ -1464,11 +1467,9 @@ Kogama Crazy Coasters
 Kogama Dungeon Run
 Kogama Escape from Prison
 Kogama Hallow Special trick or treat
-Kogama Lego Star Wars
-Kogama Longest Stairs
 Kogama Minecraft
+Kogama Mountain Climber
 Kogama Parkour Professional
-Kogama ParkourWood
 Kogama Roller Coaster World
 Kogama School Is Just Super
 Kogama Sonic Dash 2
@@ -1531,6 +1532,7 @@ Little Alchemy
 Little Alchemy 2
 Little Big Fighters
 Little Blacksmith Clicker
+Little Cabin in the Woods A Forgotten Hill Tale
 Little Fox Bubble Spinner Pop
 Little Robot
 Live Avatar Maker Girls
@@ -1714,6 +1716,8 @@ Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
+MineEnergy fun
+MineTap Merge Clicker
 Minecube
 Miner Cat 4
 Miner Madness Tycoon
@@ -1809,7 +1813,6 @@ Move the rubber bands Logic puzzle
 Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
-Mr Throw
 Multi Level Restaurant
 Multiplayer Quick Tag
 Murder Mafia
@@ -1872,6 +1875,7 @@ Ninja Rian
 No Crossroads
 No Pain No Gain Ragdoll Sandbox
 Nonogram
+Nonogram FRVR
 Noob Archer vs Stickman Zombie
 Noob Basketball Clicker
 Noob Gigachad Parkour Tricks Challenge
@@ -1882,6 +1886,7 @@ Noob Miner Escape From Prison
 Noob Snake 2048
 Noob VS Cops
 Noob Wall Crusher
+Noob Zombie Prison Escape
 Noob s Chicken Farm Tycoon
 Noob s Farm Escape
 Noob trolls Pro
@@ -1968,6 +1973,7 @@ Pancake Maker
 Panda Simulator 3D
 Panther Family Simulator 3D
 Papa Cherry Saga
+Papa s Freezeria
 Paparazzi Diva The Mermaid Princess
 Paper Delivery Boy
 Paper Doll Diary Dress Up DIY
@@ -2003,7 +2009,6 @@ Penalty Shooters
 Penalty Shooters 2
 Penalty Shooters 3
 Penalty Shootout Multi League
-Penalty Superstar
 Pencil Rush
 Pendulum Master
 Pepi Hospital Learn & Care
@@ -2111,7 +2116,6 @@ Progress Knight
 Prom Night Dress Up
 Prune & Milo
 Puckit
-Pudding Monsters
 Punch Hero
 Punchers
 Puppet Fighter 2 Player
@@ -2181,7 +2185,6 @@ Real Drift World
 Real Drive 3D Parking Games
 Real Fishing Simulator
 RealDerby Crash Day
-RealDrive
 Red Bounce Ball 5
 Red Escape
 Red Imposter Clicker
@@ -2244,8 +2247,6 @@ Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
 Rude Races
-Rummy Blast
-Run Crazy Prison Break 3D
 Run Desnecessauro
 Run Idle Online Game
 Rush & Fix
@@ -2276,7 +2277,6 @@ SandStrike io
 Sandbox City
 Sandspiel
 Santa Haircut
-SantaCraft
 Satisfying Ball Clicker
 Sausage Dog
 Save My Pets
@@ -2334,6 +2334,7 @@ Shot Blaster
 Shovel 3D
 Silent Dot
 Silly Walker
+Simple Loot Idle
 SimpleBox 2
 Single Stroke Line Draw
 Siren Head Playing in the Forest
@@ -2357,7 +2358,6 @@ Slap Castle
 Slash Royal
 Slash the Rope
 Slasher Online Game
-Slendrina Must Die The House
 Slice Arena
 Slice Master
 Slicer Cursor Idle
@@ -2395,6 +2395,7 @@ Sniper Master
 Sniper Mission
 Sniper Shooting
 Sniper Shot Bullet Time
+Sniper Strike
 Snoring Elephant Puzzle
 Snow Farm Happy New Year
 Snow Plow Truck Game
@@ -2545,7 +2546,6 @@ Sticky Fruits
 Stone Idle
 Store Manager Game
 Stormy Kicker
-Strawberella
 Street Ball Jam
 Street Fighter Simulator
 Street Freekick 3D
@@ -2764,7 +2764,6 @@ Train Taxi
 Transporter Hot Pursuit
 Trap Craft
 Trap the Cat 2D
-Trappersquares io
 Travel Tile
 Travel With Me ASMR Edition
 Treasure Hunt Idle
@@ -2808,6 +2807,7 @@ Ultimate Racing 3D
 Ultimate Robo Duel 3D
 Ultimate Truck Driving Simulator 2020
 Ultimo Games 2019 Gifts
+Undercroft Warriors
 Underwater Adventures Match 3
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
@@ -2842,7 +2842,6 @@ Vortex io
 Voxiom io
 WKSP Rumble
 WODR
-WORM online game
 WW1 Battle Simulator
 Wacky Dungeon
 War Brokers
@@ -2928,6 +2927,7 @@ Xtreme Rivals Car Racing
 Yahtzee Online
 Yatzy
 Yellowstone Ranch online game
+Yes or No Challenge
 Yet Another Merge Game
 You Are Being Watched
 You vs 100 Skibidi Toilets
