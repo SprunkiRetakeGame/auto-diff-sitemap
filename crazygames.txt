@@ -3,7 +3,7 @@
 10 minute mage
 100 Doors
 100 Doors Challenge
-100 Meters Race
+100 Doors Puzzle Box
 10x10
 10x10 Arabian Nights
 10x10 Classic
@@ -59,6 +59,7 @@ Age Of Arms
 Age Of War
 Age of Defense 3
 Age of Tanks Warriors TD War
+Agents io
 Ages Build & Craft
 Aground
 Aim Master
@@ -124,7 +125,6 @@ Arsenal Online shooting game
 Assassin Hero
 Assault Bots
 AstroDud io
-Atari Breakout
 Atomic Champions
 Attack Of Duty
 Attack Of The Dead
@@ -213,10 +213,9 @@ Battle button clicker
 Battle of Knights Robby and Dragons
 BattleDudes
 BattleTabs
-Battleship
 Battleships General Quarters
 Be My Guest
-Beach Ball Online Game
+Beam Game
 Bear vs Humans
 Beauty Princess Makeup Game
 Beaver Builder
@@ -257,13 +256,13 @@ Blackjack Master
 Blackriver Mystery Hidden Objects
 Blade Merge
 Blade of Dimensions
+Blast Billiards
 Blast Billiards 4
 Blitz Tanks
 Blob Opera
 Block Blast 3D
 Block Champ
 Block Clicker
-Block Climber
 Block Contra Clutch Strike
 Block Destroyer
 Block Fuser
@@ -364,7 +363,6 @@ Bullets & Brains
 Bum Ben
 Bumbly Bee
 Bump It Up
-Bump io
 Burger Boss
 Burger Cafe
 Burger Clicker
@@ -443,7 +441,6 @@ Cat Sorter Puzzle
 Cat Warrior Parkour
 Cat and Granny
 Catch Tiles Piano Game
-Cats and Bees
 Catty s Fishing Day
 Cave FRVR
 Cavern from the fog
@@ -461,9 +458,9 @@ Checkers Free
 Chess Clicker
 Chess Master Game
 Chess Multiplayer
-Chess Nations
 Chess free Online Game
 Chessformer
+Chibi Boy Doll Maker Games
 Chibi Doll Avatar Creator
 Chibi Doll Dress Up & Coloring
 Chibi Knight
@@ -530,6 +527,7 @@ Color Mix Jelly Merge
 Color Page ASMR
 Color Pixel Art Classic
 Color Roll 3D
+Color Screw Unscrew & match
 Color Tap Coloring by Numbers
 Color Water Sort 3D
 ColorBox Puzzle
@@ -547,6 +545,7 @@ Connect 4 Online Multiplayer
 Connect People State Control
 Connect idle
 Console Idle
+Construct a Bridge
 Construction Idle
 Construction Ramp Jumping
 Cookie Clicker Save the World
@@ -558,6 +557,7 @@ Cool Girl Aesthetics
 Cool Kingdom
 Copter
 Copter io
+Cosmic Miners
 Cougar Simulator Big Cats
 Country Life Meadows
 Cow Defender
@@ -597,7 +597,6 @@ Crazy for Speed
 Create your beach online game
 CreateARide
 Creative Coloring
-Creative Kill Chamber
 Creepy Granny Scream Scary Freddy
 Cribbage JD
 Cricket FRVR
@@ -652,12 +651,9 @@ CyberShark
 Cyberpunk City Fashion
 Cyberpunk Corporation
 Cyberpunk Resistance
-Cycle Extreme
 DEADSHOT io
-DIY Makeup Salon SPA Makeover
 DIY Ugly Christmas Sweater
 DOP Draw One Part
-DOP Puzzle Displace One Part
 DRAMA Online Game
 DRIFT NO LIMIT
 DUO With Friends
@@ -670,7 +666,6 @@ Dalgona Candy Honeycomb Cookie
 Dalgona Game
 Damn It
 Dancing Dreamer
-Dandan Slime
 Dark Academy Fashion Game
 Dark Lands
 Darts Club Online Game
@@ -682,6 +677,7 @@ DayCare Tycoon
 Dead Land Survival
 Dead Zed
 Dead Zed 2
+Deadly Red Spikes
 Deads On The Road
 Death Ball
 Death Chase
@@ -710,6 +706,7 @@ Designville Merge & Design
 Desktop Tower Defense
 Destroy Base
 Detective IQ Brain Games
+Detective Loupe Puzzle
 Diamond Drawing by Numbers
 Diamond Dungeon Match 3
 Diamond Rush 2
@@ -759,6 +756,7 @@ DonutCats Merge
 Doodle Arena
 Doodle Block Puzzle
 Doodle Road
+Doodlr io
 Doom 3
 Doomsday Shooter
 Doors Paradox
@@ -787,10 +785,12 @@ Drift Club
 Drift Escape
 Drift Hunters
 Drift Runner 3D
+Drift Zero
 Drift io
 Drill Quest
 Drive or Die
 Drop & Merge the Numbers
+Drop Ahead Sandbox Madness
 DrunkFu Wasted Masters
 Drunken Boxing
 Drunken Duel 2
@@ -859,12 +859,12 @@ Epic Empire Tower Defense
 EpicBallz io
 Escape 20 Rooms
 Escape From Prison Multiplayer
-Escape Game Room With a Lamp
 Escape Pear Room
 Escape Puzzle Game Moon Trip
 Escape Room Strange Case 2
 Escape Series
 Escape from Zombies
+Escape or Die
 Escape or Die 3
 Escape or Die 4
 Escape the Dog
@@ -872,6 +872,7 @@ Escaping the Prison
 Eternal Road
 Euro Truck Driving Simulator 2025
 Ev io
+Evade Game
 Everytown
 Evil Father
 Evil Neighbor 2
@@ -918,7 +919,6 @@ Farm Family
 Farm Land Game
 Farm Merge
 Farm Merge Valley
-Farmer Challenge Party
 Farming Life Online Game
 Fashion Battle
 Fashion Box Christmas Diva
@@ -944,15 +944,12 @@ Fighter Aircraft Pilot
 Fighter Legends Duo
 Fill The Fridge
 Fill the Gap
-Find Bird
-Find Cat
 Find Cat 2
 Find Differences Spot Em All
 Find It Find The Differences
 Find Me Lost Objects
 Find The Alien
 Find The Difference
-Find the Pieces Online Game
 Find them all
 Finger Fury Flashmaster
 Fire Helicopter
@@ -1047,13 +1044,11 @@ Funny Ear Surgery
 Funny Food Duel
 Funny Haircut Game
 Funny Kitty Care
-Funny Kitty Haircut
 Funny Mad Racing
 Funny Nose Surgery
 Funny Pet Haircut
 Funny Puppy Care
 Funny Puppy Emergency
-Funny Ragdoll Wrestlers
 Funny Rescue Carpenter
 Funny Rescue Pet
 Funny Rescue Zookeeper
@@ -1061,6 +1056,7 @@ Funny Shooter 2
 Funny Shooter Destroy All
 Funny Tattoo Shop
 Funny Throat Surgery
+Funny Travelling Airport
 Funny Zoo Emergency
 Furry Dress Up Anime Creator
 GROW Comeback
@@ -1072,6 +1068,7 @@ Galaxy Clicker
 Game Cafe Escape
 Gang Brawlers
 Gangsta Island Crime City
+Gangster Crimes Online 6 Mafia City
 Gangster Vegas Grand City
 Gangsters Game
 Gangsters Squad Game
@@ -1095,6 +1092,7 @@ Ghost Walker
 Giant Rush
 Giant Sushi
 Ginormo Sword
+Girl Coloring Dress Up Games
 Gladiator Fights
 Glam And Glossy
 Glamour Beach Life
@@ -1102,12 +1100,9 @@ Glass Factory 2
 Glitch Game
 Global City
 Glove Power
-Glowit Two Players
-Go Chicken Go
 GoBattle io
 Goalkeeper Wiz
 Goblins Wood
-God of Light
 Goddess Connect
 Gods Playing Field
 Gods of Defense
@@ -1179,11 +1174,12 @@ Hammer Worker
 Hamster Factory ASMR
 Hamster Kombat Clicker
 Hanafuda Flash
-Hand Over Hand
+Hanoi 3D
 Happy Cakes
 Happy Town Game
 Harley Learns To Love
 Haru Pandas Slide
+Harvest Horizons Idle
 HasteMiner
 HasteMiner 2
 HasteMiner 3 Eternamine
@@ -1209,6 +1205,7 @@ Herochero Enemy Slayer
 Heroes Assemble
 Heroes of Match 3
 Heroes of Tiny Kingdom
+Heroes of the Wasteland
 Heroic Battle
 Hex Color Idle
 Hex Empire
@@ -1217,6 +1214,7 @@ Hexa Dungeon
 Hexa Sort
 Hexa blast game
 Hexo Land
+Hextris
 Hidden Objects Online Game
 Hidden Oxygen
 Hidden Shapes Animals
@@ -1228,7 +1226,6 @@ Highschool Mean Girls 2
 Highschool Mean Girls 3
 Highway Racer
 Highway Racer 2
-Hill Climb on Moto Bike
 Hill Masters
 Hobo 2
 Hobo 3
@@ -1251,12 +1248,9 @@ Horror Bosses Clicker
 Horror Room Scary Hotel Tycoon
 Horror Tale
 Horse Cart Transport Taxi Game
-Horse Racing Derby Quest
 Horse Riding Simulator
 Horse Simulator 3D
-Horseback Survival
 Hospital Hustle
-Hostage Negotiator Online
 Hot Lava Floor
 Hot Pot Game
 Hot Road Infinite
@@ -1264,7 +1258,6 @@ HotDog TD
 Hotfoot Baseball
 House Escape Office
 House Flip
-House of Celestina
 House of Fashion
 House of Hazards
 Hula Hoop Race
@@ -1273,6 +1266,7 @@ Human Resistance
 Hungry Hamster
 Hungry Ocean Eat Feed and Grow Fish
 Hungry Pet Mania
+Hunter Hitman
 HypeMaster
 Hyper Cars Ramp Crash
 Hyper Evolution Online Game
@@ -1323,7 +1317,6 @@ Idle Mine Remix
 Idle Mining Empire
 Idle Mobs Farm
 Idle Monster Slayer
-Idle Noob Lumberjack
 Idle Pet Business
 Idle Planet Gym Tycoon
 Idle Printers
@@ -1337,6 +1330,7 @@ Idle Sea Park
 Idle Soccer Manager
 Idle Space Business Tycoon
 Idle Startup Tycoon
+Idle Streamer
 Idle Supermarket Tycoon
 Idle Superpowers
 Idle Train Empire Tycoon
@@ -1350,11 +1344,11 @@ Inca Cubes 2048
 Incremental Epic Breakers
 Incremental Epic Hero
 Incremental Epic Hero 2
+Industry Idle
 Infected Days
 Infection Z
 Infernal Throne
 Infiltrating the Airship
-Infinite Launch
 Infinity Toower
 Injustice Gods Among Us
 Interactive Buddy
@@ -1406,6 +1400,7 @@ K pop New Year s Concert
 KNOCKOUTS Game
 KOGAMA Reach the Flag
 Kaleidoscope Game
+Kamaz Truck Driver
 Kart Wars
 Kawaii Friends Tiles Matcher
 Keep it straight
@@ -1427,6 +1422,7 @@ Kiomet
 Kirka io
 Kitchen Escape
 Kite Flying Sim
+Kitten Cannon
 Kitty Cats
 Kitty Clickler
 Kitty Scramble
@@ -1475,7 +1471,6 @@ Kung Fu Grandpa
 Kuzbass Horror
 LA Shark
 LA Times Crossword
-Land Ho
 LandLord Real Estate Tycoon
 Landfill Sim
 Landor Quest 2
@@ -1501,8 +1496,6 @@ LazerGrrl
 Lazy Jumper
 Learn To Fly Game
 Leek Factory Tycoon
-Left 4 Dead
-Let Me Eat 2 Feeding Madness
 Let Me Eat Big Fish Eat Smaller
 Level Eaten
 Lhama Clicker
@@ -1593,6 +1586,7 @@ Mahjong Gardens
 Mahjong Kitchen
 Mahjong Magic Islands
 Mahjong Monster Arena
+Mahjong Pirate Plunder Journey
 Mahjong Shanghai
 Mahjong Sweet Connection
 Mahjong Titans
@@ -1611,6 +1605,7 @@ Marble Run
 Marina Fever Tycoon
 Marine Survivors
 Market Boss
+Martian Builders Tycoon
 Masked Forces 2 Demons Rising
 Massive Multiplayer Platformer
 Master Chess
@@ -1619,7 +1614,6 @@ Match Arena
 MatchVentures
 Matches Game
 Math Duck
-Matrix Bullet Time Fighting
 Max Mixed Cocktails
 Max Mixed Cuisine
 Max vs Gangsters
@@ -1636,7 +1630,9 @@ Mega Factory
 Mega Fall Ragdoll Simulator
 Mega Makeup Seasons Best
 Mega Ragdoll Sandbox Simulator
+Mega Ramp Car Game Car Stunts
 Mega Ramp Car Stunt
+Megalodon Game
 MegamodGames
 MemeBattle What s That Meme
 Merge & Construct
@@ -1652,6 +1648,7 @@ Merge Block 2048
 Merge Blocks 3D
 Merge Cakes
 Merge Cannon Chicken Defense
+Merge Cooking Game
 Merge Defense
 Merge Fruits
 Merge Galaxy
@@ -1687,13 +1684,14 @@ Mike And Mia The Firefighter
 Mike and Mia Camping Day
 Military Capitalist
 Milky Way Idle
+Millionaire Quiz
 Mind Controller
 Mine Blocks
 Mine Keeper
 Mine Loop
 Mine Merge Mania
+Mine Runner 
 Mine Shooter Save Your World
-Mine Slingshot
 Mine to the Last
 MineClicker
 MineClicker 2
@@ -1786,7 +1784,6 @@ Mountain Jigsaw Puzzle
 Mountain Operation
 Mouse Warriors
 Move It game
-Move the rubber bands Logic puzzle
 Mr Dude King of the Hill
 Mr Mine
 Mr Mine Escape
@@ -1828,12 +1825,13 @@ My Sweet World
 My Town Home Family Playhouse
 Mystery Digger
 Mystic Escape
-Mystic Square Mystery Trail
 Mystical Blade
 N Game
 NIMRODS GunCraft Survivor DEMO
+NOOB Zombie shooting
 Nail Art Salon for Girls
 Nanaca Crash
+Nano Racers
 Narwhale io
 Nature Strikes Back
 Necro Sludge
@@ -1864,7 +1862,7 @@ Nonogram FRVR
 Noob Archer vs Stickman Zombie
 Noob Basketball Clicker
 Noob Gigachad Parkour Tricks Challenge
-Noob Island Escape
+Noob MineFactory
 Noob Miner 2 Escape form Prison
 Noob Miner Escape From Prison
 Noob Snake 2048
@@ -1901,6 +1899,7 @@ Office Fight
 Office Kissing Japanese
 Office Tycoon Expand & Manage
 Offroad Cargo Transport Truck
+Offroad Climb 4x4
 Offroad Island
 Offroad Life 3D
 Offroad Masters Challenge
@@ -1991,7 +1990,6 @@ Peckin Pixels
 Pegball FRVR
 Pen Dig
 Penalty Kick Wiz
-Penalty Rivals
 Penalty Shooters
 Penalty Shooters 2
 Penalty Shooters 3
@@ -2055,6 +2053,7 @@ Planetary Assault
 Plangman
 Plant Squad
 Plated Glory
+Platformer Chef
 Platformer Jigsaw Puzzle
 Play Blackchain Online
 Plazma Burst
@@ -2065,6 +2064,7 @@ Poke The Presidents
 Police Car Town Chase
 Police Evolution Idle
 Poly Art
+PolyBusiness Unofficial Monopoly
 PolyTrack
 Pongoal
 Pool 8
@@ -2084,7 +2084,6 @@ Portal The Flash Version
 Potty Racers
 Pou
 Pouring Puzzle
-Power Badminton
 Power Blocks
 Power Players Defenders
 Practice On Me
@@ -2094,21 +2093,17 @@ Press A to Party
 Pride Rainbow Fashion
 Primary Game
 Princess Homeland
-Princess Lovely Fashion
 Princess Wedding Transformation
 Prison Break Architect Tycoon
 Professor Strange
 Progress Knight
 Project Dimentia Bodhisattva
-Prom Night Dress Up
 Prune & Milo
 Puckit
-Pudding Monsters
 Punch Hero
 Punchers
 Punkomatic
 Puppet Fighter 2 Player
-Puppetman Ragdoll Puzzle
 Puppetman Ragdoll Shooter
 Purr fect Scoops
 Push My Chair
@@ -2138,7 +2133,6 @@ Raccoon Retail
 Race Clicker
 Race Clicker DRIFT MAX
 Race Clicker Tap Tap Game
-Racer Clicker
 Racing Builder
 Racing Empire
 Racing Limits
@@ -2156,6 +2150,7 @@ Rage Fruits Tower Defense
 Rage Game
 Raid Heroes Total War
 Rally Point
+Rally Point 2
 Rally Point 3
 Rally Point 4
 Rally Racer Dirt
@@ -2167,6 +2162,7 @@ Random Cards Tower Defense
 Random Wars
 Ray Part 1
 Raze 3
+Real Car Parking
 Real Cars Epic Stunts
 Real City Driver
 Real Drift World
@@ -2196,9 +2192,9 @@ Riot Escape
 RiseHero
 Road Master 3D
 Road Turn
-Road to Golflantis
 Robbie Game Challenges
 Robo Runner
+Robot Dinosaurs That Shoot Beams
 Robot Dog City Simulator
 Robot Police Iron Panther
 Robot Unicorn Attack
@@ -2212,11 +2208,9 @@ Rocket Clash 3D
 Rocket Launch Game
 Rocket Well
 Rodha
-Rogue Dunk
 Rogue Soul 2
 Rogue Tower
 RollUp Tiles
-Roller Coaster Rush
 Rolling Balls Sea Race
 Rolling In Gears
 Rooftop Run
@@ -2232,6 +2226,7 @@ Rotator Game
 Rough Ball
 Rovercraft
 Royal City Clashers 2
+Royal City Clashers 3
 Royal Dress Up Fashion Queen
 Royal Merge
 Royal Pool Online Game
@@ -2243,11 +2238,10 @@ Rush & Fix
 Rush Hour Cafe
 Russian Bingo
 Russian Checkers Free
-Russian Kamaz Truck Driver
+Russian Delivery Club Baikal
 Russian Kamaz Truck Driver 2
 SCAR Game
 SNIPER Game
-SSSPICY
 STACK it
 STUG io
 SYNTAXIA
@@ -2347,8 +2341,10 @@ Slasher Online Game
 Sleep Walk Game
 Slice Arena
 Slice Master
+Slicer Cursor Idle
 Slightly Annoying Traffic
 Slime Clicker
+Slime Conquer Epic Battles
 Slime Farm 2 Gold Rush
 Slime Farm 3
 Slime Farm Remake
@@ -2398,6 +2394,7 @@ Soft Girls Winter Aesthetics
 Sol Wars
 Solar System Scope
 Solitaire Crime Stories
+Solitaire Definitive Edition
 Solitaire FRVR
 Solitaire Farm Seasons 2
 Solitaire Klondike
@@ -2430,6 +2427,7 @@ Spank The Monkey
 Spark Chess
 Speed Game
 Speed Racing Pro 2
+SpellWheel
 Spellsword The Last Crusade
 Spider Evolution Runner Game
 Spider FRVR
@@ -2488,7 +2486,6 @@ Stickhole io
 Stickman Annihilation 2
 Stickman Archer The Wizard Hero
 Stickman Archero Fight
-Stickman Arena
 Stickman Army Team Battle
 Stickman Army The Defenders
 Stickman Army The Resistance
@@ -2510,6 +2507,7 @@ Stickman History Battle
 Stickman King
 Stickman Legacy of Zombie War
 Stickman Miners Wars
+Stickman Moto Race Extreme
 Stickman Parkour Master
 Stickman Prison Counter Assault
 Stickman Simulator Final Battle
@@ -2563,6 +2561,7 @@ Super Bandit RIP
 Super Bike The Champion
 Super Crime Steel War Hero
 Super Fast Driver
+Super Fun Obby Parkour
 Super Hero Driving School
 Super MX Last Season
 Super MX The Champion
@@ -2605,7 +2604,6 @@ Sweet Shop 3D
 Sweety Ludo
 Swimming Pool Romance
 Swing Monkey
-Switch Online Game
 Switch Wheel Race Master
 Swop Shoot
 Sword Adventure Idle
@@ -2643,7 +2641,9 @@ Tanks Merge
 Tanks of the Galaxy
 Tanks vs Zombies Tank Battle
 Tanuki Sunset
+Tap Supermarket
 Tap Tap Goose
+Tap n Cut
 TapTap Shots
 Tasty Jewel Joy
 Tasty Match Mahjong Pairs
@@ -2675,16 +2675,17 @@ The Farmer Game
 The Final Earth 2
 The Frame Pixel Art
 The Game Online Game
+The Idiot Test
 The Illusionist s Dream
 The Impossible Quiz
 The Island Game
 The Last Stand 2
 The Last Stand Game
 The Last Tater
+The Last Warrior Dark Knight
 The Legendary Assassin Ninja KAL
 The Magician Game
 The Milk Quest
-The Pillar
 The Range 3D
 The Rooms Escape Challenge
 The Shiny Ones
@@ -2704,12 +2705,13 @@ There Is No Game
 Thief Puzzle
 Think to Escape
 Think to Escape 2
+Think to Escape 3
 This Is The Only Level
 Three Goblets
 Tic Tac Toe Online
 Tictoc Catwalk Fashion
 Tictoc KPOP Fashion
-Tictoc Summer Fashion
+Tictoc Paris Fashion
 Tiger Simulator 3D
 TikTok Braided Hairstyles
 TikTok Floral Trends
@@ -2754,7 +2756,6 @@ Towering Trials
 Toy Car Simulator
 Toy Rider
 Traffic Cop 3D
-Traffic Loop Game
 Traffic Tour
 Train Adventure
 Train Drift
@@ -2762,6 +2763,7 @@ Train Master
 Train Taxi
 Transporter Hot Pursuit
 Trap Craft
+Trapped Game
 Travel Tile
 Travel With Me ASMR Edition
 Treasure of Cutlass Reef
@@ -2806,7 +2808,6 @@ Undercroft Warriors
 Underwater Adventures Match 3
 Underwater Survival Deep Dive
 Unfold Escape Room Puzzle
-Unicorn Dress Up Coloring Book
 Unicorn Family Simulator Magic World
 Unicorn Kingdom Merge and win Stickers
 Unicycle Mayhem
@@ -2906,7 +2907,6 @@ Wood Cutter Saw
 Wood Farmer
 Word Chef
 Word Scramble Family Tales
-Word Shift
 Word Wipe
 Wording Online Game
 Wordler Game
@@ -2946,12 +2946,15 @@ You vs 100 Skibidi Toilets
 Your Chronicle
 Yummy Candy Factory
 Yummy Chocolate Factory
-Yummy Hotdog
+Yummy Churros Ice Cream
+Yummy Donut Factory
 Yummy Ice Cream Factory
 Yummy Super Burger
+Yummy Super Pizza
+Yummy Toast
 Yummy Waffle Ice Cream
 Z Hunter Game
-Zeppelin Assault
+ZARCANE A Zombie Apocalypse
 Zom Strike
 Zombie Arena
 Zombie Clash 3D Halloween
@@ -2963,10 +2966,8 @@ Zombie Match
 Zombie Mayhem
 Zombie Outbreak Arena
 Zombie Raft
-Zombie Survival
 Zombie World Escape
 Zombie coming roguelike siege
-Zombies Attack Idle
 Zombies Shooter
 Zombies Shooter Part 2
 Zombo Buster Advance
@@ -2994,6 +2995,5 @@ myDream Universe
 mySolar Build Your Planets
 orange online game
 pink Bart Bonte
-red Game
 rock climbing online game
 xor Game
